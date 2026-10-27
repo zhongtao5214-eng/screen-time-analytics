@@ -28,7 +28,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.88,
         "excess_hours": 11.04,
-        "opportunity_loss_yuan": 629.28
+        "opportunity_loss_yuan": 1104.0
       },
       {
         "year": "2026",
@@ -42,7 +42,7 @@
         "top_app": "微信",
         "top_app_hours": 1.49,
         "excess_hours": 3.19,
-        "opportunity_loss_yuan": 181.83
+        "opportunity_loss_yuan": 319.0
       }
     ]
   },
@@ -75,7 +75,7 @@
         "top_app": "微信",
         "top_app_hours": 2.89,
         "excess_hours": 7.46,
-        "opportunity_loss_yuan": 425.22
+        "opportunity_loss_yuan": 746.0
       },
       {
         "year": "2026",
@@ -108,7 +108,7 @@
         "top_app": "微信",
         "top_app_hours": 5.05,
         "excess_hours": 10.32,
-        "opportunity_loss_yuan": 588.24
+        "opportunity_loss_yuan": 1032.0
       },
       {
         "year": "2025",
@@ -122,7 +122,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.61,
         "excess_hours": 16.15,
-        "opportunity_loss_yuan": 920.55
+        "opportunity_loss_yuan": 1615.0
       },
       {
         "year": "2026",
@@ -136,7 +136,7 @@
         "top_app": "屏幕时间管理",
         "top_app_hours": 1.08,
         "excess_hours": 0.24,
-        "opportunity_loss_yuan": 13.68
+        "opportunity_loss_yuan": 24.0
       }
     ]
   },
@@ -155,7 +155,7 @@
         "top_app": "微信",
         "top_app_hours": 3.37,
         "excess_hours": 8.44,
-        "opportunity_loss_yuan": 481.08
+        "opportunity_loss_yuan": 844.0
       },
       {
         "year": "2025",
@@ -169,7 +169,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.41,
         "excess_hours": 10.74,
-        "opportunity_loss_yuan": 612.18
+        "opportunity_loss_yuan": 1074.0
       },
       {
         "year": "2026",
@@ -183,7 +183,7 @@
         "top_app": "系统桌面",
         "top_app_hours": 4.32,
         "excess_hours": 13.56,
-        "opportunity_loss_yuan": 772.92
+        "opportunity_loss_yuan": 1356.0
       }
     ]
   },
@@ -202,7 +202,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.63,
         "excess_hours": 6.67,
-        "opportunity_loss_yuan": 380.19
+        "opportunity_loss_yuan": 667.0
       },
       {
         "year": "2025",
@@ -216,7 +216,7 @@
         "top_app": "微信",
         "top_app_hours": 5.29,
         "excess_hours": 10.57,
-        "opportunity_loss_yuan": 602.49
+        "opportunity_loss_yuan": 1057.0
       },
       {
         "year": "2026",
@@ -230,7 +230,7 @@
         "top_app": "微信",
         "top_app_hours": 2.7,
         "excess_hours": 5.83,
-        "opportunity_loss_yuan": 332.31
+        "opportunity_loss_yuan": 583.0
       }
     ]
   },
@@ -249,7 +249,7 @@
         "top_app": "微信",
         "top_app_hours": 3.48,
         "excess_hours": 5.78,
-        "opportunity_loss_yuan": 329.46
+        "opportunity_loss_yuan": 578.0
       },
       {
         "year": "2025",
@@ -263,7 +263,7 @@
         "top_app": "微信",
         "top_app_hours": 6.69,
         "excess_hours": 12.49,
-        "opportunity_loss_yuan": 711.93
+        "opportunity_loss_yuan": 1249.0
       },
       {
         "year": "2026",
@@ -277,7 +277,7 @@
         "top_app": "YouTube",
         "top_app_hours": 2.61,
         "excess_hours": 10.64,
-        "opportunity_loss_yuan": 606.48
+        "opportunity_loss_yuan": 1064.0
       }
     ]
   },
@@ -296,7 +296,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.15,
         "excess_hours": 1.2,
-        "opportunity_loss_yuan": 68.4
+        "opportunity_loss_yuan": 120.0
       },
       {
         "year": "2025",
@@ -310,7 +310,7 @@
         "top_app": "微信",
         "top_app_hours": 6.13,
         "excess_hours": 11.73,
-        "opportunity_loss_yuan": 668.61
+        "opportunity_loss_yuan": 1173.0
       },
       {
         "year": "2026",
@@ -324,7 +324,7 @@
         "top_app": "系统桌面",
         "top_app_hours": 3.42,
         "excess_hours": 13.32,
-        "opportunity_loss_yuan": 759.24
+        "opportunity_loss_yuan": 1332.0
       }
     ]
   },
@@ -343,7 +343,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.67,
         "excess_hours": 2.0,
-        "opportunity_loss_yuan": 114.0
+        "opportunity_loss_yuan": 200.0
       },
       {
         "year": "2025",
@@ -357,7 +357,7 @@
         "top_app": "微信",
         "top_app_hours": 5.33,
         "excess_hours": 12.42,
-        "opportunity_loss_yuan": 707.94
+        "opportunity_loss_yuan": 1242.0
       },
       {
         "year": "2026",
@@ -371,7 +371,7 @@
         "top_app": "X",
         "top_app_hours": 2.18,
         "excess_hours": 3.29,
-        "opportunity_loss_yuan": 187.53
+        "opportunity_loss_yuan": 329.0
       }
     ]
   },
@@ -390,7 +390,7 @@
         "top_app": "com.tencent.tmgp.sgame",
         "top_app_hours": 5.02,
         "excess_hours": 8.91,
-        "opportunity_loss_yuan": 507.87
+        "opportunity_loss_yuan": 891.0
       },
       {
         "year": "2025",
@@ -404,7 +404,7 @@
         "top_app": "高德地图",
         "top_app_hours": 3.03,
         "excess_hours": 5.51,
-        "opportunity_loss_yuan": 314.07
+        "opportunity_loss_yuan": 551.0
       },
       {
         "year": "2026",
@@ -418,7 +418,7 @@
         "top_app": "微信",
         "top_app_hours": 2.62,
         "excess_hours": 6.25,
-        "opportunity_loss_yuan": 356.25
+        "opportunity_loss_yuan": 625.0
       }
     ]
   },
@@ -437,7 +437,7 @@
         "top_app": "抖音",
         "top_app_hours": 12.29,
         "excess_hours": 11.69,
-        "opportunity_loss_yuan": 666.33
+        "opportunity_loss_yuan": 1169.0
       },
       {
         "year": "2025",
@@ -451,7 +451,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.52,
         "excess_hours": 5.39,
-        "opportunity_loss_yuan": 307.23
+        "opportunity_loss_yuan": 539.0
       },
       {
         "year": "2026",
@@ -465,7 +465,7 @@
         "top_app": "京东读书",
         "top_app_hours": 2.69,
         "excess_hours": 8.42,
-        "opportunity_loss_yuan": 479.94
+        "opportunity_loss_yuan": 842.0
       }
     ]
   },
@@ -484,7 +484,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.81,
         "excess_hours": 10.74,
-        "opportunity_loss_yuan": 612.18
+        "opportunity_loss_yuan": 1074.0
       },
       {
         "year": "2025",
@@ -498,7 +498,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.63,
         "excess_hours": 11.7,
-        "opportunity_loss_yuan": 666.9
+        "opportunity_loss_yuan": 1170.0
       },
       {
         "year": "2026",
@@ -512,7 +512,7 @@
         "top_app": "微信",
         "top_app_hours": 1.77,
         "excess_hours": 9.31,
-        "opportunity_loss_yuan": 530.67
+        "opportunity_loss_yuan": 931.0
       }
     ]
   },
@@ -531,7 +531,7 @@
         "top_app": "com.tencent.tmgp.sgame",
         "top_app_hours": 8.31,
         "excess_hours": 11.47,
-        "opportunity_loss_yuan": 653.79
+        "opportunity_loss_yuan": 1147.0
       },
       {
         "year": "2025",
@@ -545,7 +545,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.85,
         "excess_hours": 11.87,
-        "opportunity_loss_yuan": 676.59
+        "opportunity_loss_yuan": 1187.0
       },
       {
         "year": "2026",
@@ -559,7 +559,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.42,
         "excess_hours": 8.55,
-        "opportunity_loss_yuan": 487.35
+        "opportunity_loss_yuan": 855.0
       }
     ]
   },
@@ -578,7 +578,7 @@
         "top_app": "com.tencent.tmgp.sgame",
         "top_app_hours": 4.97,
         "excess_hours": 8.35,
-        "opportunity_loss_yuan": 475.95
+        "opportunity_loss_yuan": 835.0
       },
       {
         "year": "2025",
@@ -592,7 +592,7 @@
         "top_app": "百度网盘",
         "top_app_hours": 5.91,
         "excess_hours": 12.79,
-        "opportunity_loss_yuan": 729.03
+        "opportunity_loss_yuan": 1279.0
       },
       {
         "year": "2026",
@@ -606,7 +606,7 @@
         "top_app": "京东读书",
         "top_app_hours": 6.05,
         "excess_hours": 14.23,
-        "opportunity_loss_yuan": 811.11
+        "opportunity_loss_yuan": 1423.0
       }
     ]
   },
@@ -625,7 +625,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.47,
         "excess_hours": 12.21,
-        "opportunity_loss_yuan": 695.97
+        "opportunity_loss_yuan": 1221.0
       },
       {
         "year": "2025",
@@ -639,7 +639,7 @@
         "top_app": "微信",
         "top_app_hours": 5.03,
         "excess_hours": 8.86,
-        "opportunity_loss_yuan": 505.02
+        "opportunity_loss_yuan": 886.0
       },
       {
         "year": "2026",
@@ -653,7 +653,7 @@
         "top_app": "京东读书",
         "top_app_hours": 5.21,
         "excess_hours": 13.28,
-        "opportunity_loss_yuan": 756.96
+        "opportunity_loss_yuan": 1328.0
       }
     ]
   },
@@ -672,7 +672,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.39,
         "excess_hours": 12.08,
-        "opportunity_loss_yuan": 688.56
+        "opportunity_loss_yuan": 1208.0
       },
       {
         "year": "2025",
@@ -686,7 +686,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.44,
         "excess_hours": 15.63,
-        "opportunity_loss_yuan": 890.91
+        "opportunity_loss_yuan": 1563.0
       },
       {
         "year": "2026",
@@ -700,7 +700,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.53,
         "excess_hours": 10.61,
-        "opportunity_loss_yuan": 604.77
+        "opportunity_loss_yuan": 1061.0
       }
     ]
   },
@@ -719,7 +719,7 @@
         "top_app": "com.tencent.tmgp.sgame",
         "top_app_hours": 5.78,
         "excess_hours": 13.24,
-        "opportunity_loss_yuan": 754.68
+        "opportunity_loss_yuan": 1324.0
       },
       {
         "year": "2025",
@@ -733,7 +733,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.55,
         "excess_hours": 5.2,
-        "opportunity_loss_yuan": 296.4
+        "opportunity_loss_yuan": 520.0
       },
       {
         "year": "2026",
@@ -747,7 +747,7 @@
         "top_app": "微信",
         "top_app_hours": 1.16,
         "excess_hours": 6.99,
-        "opportunity_loss_yuan": 398.43
+        "opportunity_loss_yuan": 699.0
       }
     ]
   },
@@ -766,7 +766,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.01,
         "excess_hours": 12.75,
-        "opportunity_loss_yuan": 726.75
+        "opportunity_loss_yuan": 1275.0
       },
       {
         "year": "2025",
@@ -780,7 +780,7 @@
         "top_app": "微信",
         "top_app_hours": 6.67,
         "excess_hours": 14.9,
-        "opportunity_loss_yuan": 849.3
+        "opportunity_loss_yuan": 1490.0
       },
       {
         "year": "2026",
@@ -794,7 +794,7 @@
         "top_app": "微信",
         "top_app_hours": 2.33,
         "excess_hours": 3.24,
-        "opportunity_loss_yuan": 184.68
+        "opportunity_loss_yuan": 324.0
       }
     ]
   },
@@ -813,7 +813,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.64,
         "excess_hours": 11.55,
-        "opportunity_loss_yuan": 658.35
+        "opportunity_loss_yuan": 1155.0
       },
       {
         "year": "2025",
@@ -827,7 +827,7 @@
         "top_app": "微信",
         "top_app_hours": 3.22,
         "excess_hours": 5.82,
-        "opportunity_loss_yuan": 331.74
+        "opportunity_loss_yuan": 582.0
       },
       {
         "year": "2026",
@@ -841,7 +841,7 @@
         "top_app": "YouTube",
         "top_app_hours": 1.84,
         "excess_hours": 2.94,
-        "opportunity_loss_yuan": 167.58
+        "opportunity_loss_yuan": 294.0
       }
     ]
   },
@@ -860,7 +860,7 @@
         "top_app": "微信",
         "top_app_hours": 3.78,
         "excess_hours": 6.01,
-        "opportunity_loss_yuan": 342.57
+        "opportunity_loss_yuan": 601.0
       },
       {
         "year": "2025",
@@ -874,7 +874,7 @@
         "top_app": "微信",
         "top_app_hours": 5.83,
         "excess_hours": 12.9,
-        "opportunity_loss_yuan": 735.3
+        "opportunity_loss_yuan": 1290.0
       },
       {
         "year": "2026",
@@ -907,7 +907,7 @@
         "top_app": "微信",
         "top_app_hours": 3.81,
         "excess_hours": 10.75,
-        "opportunity_loss_yuan": 612.75
+        "opportunity_loss_yuan": 1075.0
       },
       {
         "year": "2025",
@@ -921,7 +921,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.06,
         "excess_hours": 16.42,
-        "opportunity_loss_yuan": 935.94
+        "opportunity_loss_yuan": 1642.0
       },
       {
         "year": "2026",
@@ -935,7 +935,7 @@
         "top_app": "微信",
         "top_app_hours": 3.09,
         "excess_hours": 8.9,
-        "opportunity_loss_yuan": 507.3
+        "opportunity_loss_yuan": 890.0
       }
     ]
   },
@@ -954,7 +954,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.24,
         "excess_hours": 6.74,
-        "opportunity_loss_yuan": 384.18
+        "opportunity_loss_yuan": 674.0
       },
       {
         "year": "2025",
@@ -968,7 +968,7 @@
         "top_app": "抖音",
         "top_app_hours": 9.29,
         "excess_hours": 14.23,
-        "opportunity_loss_yuan": 811.11
+        "opportunity_loss_yuan": 1423.0
       },
       {
         "year": "2026",
@@ -982,7 +982,7 @@
         "top_app": "微信",
         "top_app_hours": 1.85,
         "excess_hours": 5.51,
-        "opportunity_loss_yuan": 314.07
+        "opportunity_loss_yuan": 551.0
       }
     ]
   },
@@ -1001,7 +1001,7 @@
         "top_app": "com.ss.android.article.news",
         "top_app_hours": 3.08,
         "excess_hours": 7.03,
-        "opportunity_loss_yuan": 400.71
+        "opportunity_loss_yuan": 703.0
       },
       {
         "year": "2025",
@@ -1015,7 +1015,7 @@
         "top_app": "Google",
         "top_app_hours": 6.36,
         "excess_hours": 10.05,
-        "opportunity_loss_yuan": 572.85
+        "opportunity_loss_yuan": 1005.0
       },
       {
         "year": "2026",
@@ -1029,7 +1029,7 @@
         "top_app": "微信",
         "top_app_hours": 2.98,
         "excess_hours": 5.47,
-        "opportunity_loss_yuan": 311.79
+        "opportunity_loss_yuan": 547.0
       }
     ]
   },
@@ -1048,7 +1048,7 @@
         "top_app": "com.ztgame.bob.op.nearme.gamecenter",
         "top_app_hours": 8.69,
         "excess_hours": 10.55,
-        "opportunity_loss_yuan": 601.35
+        "opportunity_loss_yuan": 1055.0
       },
       {
         "year": "2025",
@@ -1062,7 +1062,7 @@
         "top_app": "Google",
         "top_app_hours": 4.37,
         "excess_hours": 10.67,
-        "opportunity_loss_yuan": 608.19
+        "opportunity_loss_yuan": 1067.0
       },
       {
         "year": "2026",
@@ -1076,7 +1076,7 @@
         "top_app": "微信",
         "top_app_hours": 4.05,
         "excess_hours": 8.21,
-        "opportunity_loss_yuan": 467.97
+        "opportunity_loss_yuan": 821.0
       }
     ]
   },
@@ -1095,7 +1095,7 @@
         "top_app": "微信",
         "top_app_hours": 3.77,
         "excess_hours": 9.04,
-        "opportunity_loss_yuan": 515.28
+        "opportunity_loss_yuan": 904.0
       },
       {
         "year": "2025",
@@ -1109,7 +1109,7 @@
         "top_app": "微信",
         "top_app_hours": 3.14,
         "excess_hours": 4.64,
-        "opportunity_loss_yuan": 264.48
+        "opportunity_loss_yuan": 464.0
       },
       {
         "year": "2026",
@@ -1123,7 +1123,7 @@
         "top_app": "Google",
         "top_app_hours": 2.47,
         "excess_hours": 6.82,
-        "opportunity_loss_yuan": 388.74
+        "opportunity_loss_yuan": 682.0
       }
     ]
   },
@@ -1142,7 +1142,7 @@
         "top_app": "微信",
         "top_app_hours": 2.21,
         "excess_hours": 7.97,
-        "opportunity_loss_yuan": 454.29
+        "opportunity_loss_yuan": 797.0
       },
       {
         "year": "2025",
@@ -1156,7 +1156,7 @@
         "top_app": "微信",
         "top_app_hours": 3.87,
         "excess_hours": 9.89,
-        "opportunity_loss_yuan": 563.73
+        "opportunity_loss_yuan": 989.0
       },
       {
         "year": "2026",
@@ -1170,7 +1170,7 @@
         "top_app": "Google",
         "top_app_hours": 1.68,
         "excess_hours": 7.92,
-        "opportunity_loss_yuan": 451.44
+        "opportunity_loss_yuan": 792.0
       }
     ]
   },
@@ -1189,7 +1189,7 @@
         "top_app": "BOSS直聘",
         "top_app_hours": 4.18,
         "excess_hours": 10.81,
-        "opportunity_loss_yuan": 616.17
+        "opportunity_loss_yuan": 1081.0
       },
       {
         "year": "2025",
@@ -1203,7 +1203,7 @@
         "top_app": "com.tencent.tmgp.sgame",
         "top_app_hours": 3.66,
         "excess_hours": 14.08,
-        "opportunity_loss_yuan": 802.56
+        "opportunity_loss_yuan": 1408.0
       },
       {
         "year": "2026",
@@ -1217,7 +1217,7 @@
         "top_app": "抖音",
         "top_app_hours": 9.06,
         "excess_hours": 16.62,
-        "opportunity_loss_yuan": 947.34
+        "opportunity_loss_yuan": 1662.0
       }
     ]
   },
@@ -1236,7 +1236,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.08,
         "excess_hours": 11.47,
-        "opportunity_loss_yuan": 653.79
+        "opportunity_loss_yuan": 1147.0
       },
       {
         "year": "2025",
@@ -1250,7 +1250,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.55,
         "excess_hours": 6.76,
-        "opportunity_loss_yuan": 385.32
+        "opportunity_loss_yuan": 676.0
       },
       {
         "year": "2026",
@@ -1264,7 +1264,7 @@
         "top_app": "微信",
         "top_app_hours": 4.31,
         "excess_hours": 11.13,
-        "opportunity_loss_yuan": 634.41
+        "opportunity_loss_yuan": 1113.0
       }
     ]
   },
@@ -1283,7 +1283,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.09,
         "excess_hours": 15.34,
-        "opportunity_loss_yuan": 874.38
+        "opportunity_loss_yuan": 1534.0
       },
       {
         "year": "2025",
@@ -1297,7 +1297,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.23,
         "excess_hours": 10.01,
-        "opportunity_loss_yuan": 570.57
+        "opportunity_loss_yuan": 1001.0
       },
       {
         "year": "2026",
@@ -1311,7 +1311,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 2.54,
         "excess_hours": 10.11,
-        "opportunity_loss_yuan": 576.27
+        "opportunity_loss_yuan": 1011.0
       }
     ]
   },
@@ -1330,7 +1330,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.62,
         "excess_hours": 11.54,
-        "opportunity_loss_yuan": 657.78
+        "opportunity_loss_yuan": 1154.0
       },
       {
         "year": "2025",
@@ -1344,7 +1344,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.06,
         "excess_hours": 10.05,
-        "opportunity_loss_yuan": 572.85
+        "opportunity_loss_yuan": 1005.0
       },
       {
         "year": "2026",
@@ -1358,7 +1358,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.09,
         "excess_hours": 6.94,
-        "opportunity_loss_yuan": 395.58
+        "opportunity_loss_yuan": 694.0
       }
     ]
   },
@@ -1377,7 +1377,7 @@
         "top_app": "抖音",
         "top_app_hours": 10.61,
         "excess_hours": 16.04,
-        "opportunity_loss_yuan": 914.28
+        "opportunity_loss_yuan": 1604.0
       },
       {
         "year": "2025",
@@ -1391,7 +1391,7 @@
         "top_app": "百度网盘",
         "top_app_hours": 3.11,
         "excess_hours": 11.04,
-        "opportunity_loss_yuan": 629.28
+        "opportunity_loss_yuan": 1104.0
       },
       {
         "year": "2026",
@@ -1405,7 +1405,7 @@
         "top_app": "微信",
         "top_app_hours": 5.35,
         "excess_hours": 10.81,
-        "opportunity_loss_yuan": 616.17
+        "opportunity_loss_yuan": 1081.0
       }
     ]
   },
@@ -1424,7 +1424,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.2,
         "excess_hours": 10.47,
-        "opportunity_loss_yuan": 596.79
+        "opportunity_loss_yuan": 1047.0
       },
       {
         "year": "2025",
@@ -1438,7 +1438,7 @@
         "top_app": "Google",
         "top_app_hours": 2.71,
         "excess_hours": 7.19,
-        "opportunity_loss_yuan": 409.83
+        "opportunity_loss_yuan": 719.0
       },
       {
         "year": "2026",
@@ -1452,7 +1452,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.09,
         "excess_hours": 8.35,
-        "opportunity_loss_yuan": 475.95
+        "opportunity_loss_yuan": 835.0
       }
     ]
   },
@@ -1471,7 +1471,7 @@
         "top_app": "幕布",
         "top_app_hours": 5.68,
         "excess_hours": 14.16,
-        "opportunity_loss_yuan": 807.12
+        "opportunity_loss_yuan": 1416.0
       },
       {
         "year": "2025",
@@ -1485,7 +1485,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.52,
         "excess_hours": 6.75,
-        "opportunity_loss_yuan": 384.75
+        "opportunity_loss_yuan": 675.0
       },
       {
         "year": "2026",
@@ -1499,7 +1499,7 @@
         "top_app": "微信",
         "top_app_hours": 3.21,
         "excess_hours": 9.38,
-        "opportunity_loss_yuan": 534.66
+        "opportunity_loss_yuan": 938.0
       }
     ]
   },
@@ -1518,7 +1518,7 @@
         "top_app": "微信",
         "top_app_hours": 4.6,
         "excess_hours": 10.41,
-        "opportunity_loss_yuan": 593.37
+        "opportunity_loss_yuan": 1041.0
       },
       {
         "year": "2025",
@@ -1532,7 +1532,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.66,
         "excess_hours": 5.53,
-        "opportunity_loss_yuan": 315.21
+        "opportunity_loss_yuan": 553.0
       },
       {
         "year": "2026",
@@ -1546,7 +1546,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 3.73,
         "excess_hours": 10.08,
-        "opportunity_loss_yuan": 574.56
+        "opportunity_loss_yuan": 1008.0
       }
     ]
   },
@@ -1565,7 +1565,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.16,
         "excess_hours": 12.31,
-        "opportunity_loss_yuan": 701.67
+        "opportunity_loss_yuan": 1231.0
       },
       {
         "year": "2025",
@@ -1579,7 +1579,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.26,
         "excess_hours": 4.82,
-        "opportunity_loss_yuan": 274.74
+        "opportunity_loss_yuan": 482.0
       },
       {
         "year": "2026",
@@ -1593,7 +1593,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.23,
         "excess_hours": 9.91,
-        "opportunity_loss_yuan": 564.87
+        "opportunity_loss_yuan": 991.0
       }
     ]
   },
@@ -1612,7 +1612,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.59,
         "excess_hours": 5.67,
-        "opportunity_loss_yuan": 323.19
+        "opportunity_loss_yuan": 567.0
       },
       {
         "year": "2025",
@@ -1626,7 +1626,7 @@
         "top_app": "抖音",
         "top_app_hours": 1.96,
         "excess_hours": 0.91,
-        "opportunity_loss_yuan": 51.87
+        "opportunity_loss_yuan": 91.0
       },
       {
         "year": "2026",
@@ -1640,7 +1640,7 @@
         "top_app": "微信",
         "top_app_hours": 3.1,
         "excess_hours": 8.58,
-        "opportunity_loss_yuan": 489.06
+        "opportunity_loss_yuan": 858.0
       }
     ]
   },
@@ -1659,7 +1659,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.52,
         "excess_hours": 12.65,
-        "opportunity_loss_yuan": 721.05
+        "opportunity_loss_yuan": 1265.0
       },
       {
         "year": "2025",
@@ -1673,7 +1673,7 @@
         "top_app": "com.tencent.tmgp.pubgmhd",
         "top_app_hours": 3.3,
         "excess_hours": 5.04,
-        "opportunity_loss_yuan": 287.28
+        "opportunity_loss_yuan": 504.0
       },
       {
         "year": "2026",
@@ -1687,7 +1687,7 @@
         "top_app": "ChatGPT",
         "top_app_hours": 2.07,
         "excess_hours": 11.19,
-        "opportunity_loss_yuan": 637.83
+        "opportunity_loss_yuan": 1119.0
       }
     ]
   },
@@ -1706,7 +1706,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.9,
         "excess_hours": 10.14,
-        "opportunity_loss_yuan": 577.98
+        "opportunity_loss_yuan": 1014.0
       },
       {
         "year": "2025",
@@ -1720,7 +1720,7 @@
         "top_app": "com.tencent.tmgp.pubgmhd",
         "top_app_hours": 7.95,
         "excess_hours": 14.69,
-        "opportunity_loss_yuan": 837.33
+        "opportunity_loss_yuan": 1469.0
       },
       {
         "year": "2026",
@@ -1734,7 +1734,7 @@
         "top_app": "系统桌面",
         "top_app_hours": 3.07,
         "excess_hours": 10.18,
-        "opportunity_loss_yuan": 580.26
+        "opportunity_loss_yuan": 1018.0
       }
     ]
   },
@@ -1753,7 +1753,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.36,
         "excess_hours": 13.78,
-        "opportunity_loss_yuan": 785.46
+        "opportunity_loss_yuan": 1378.0
       },
       {
         "year": "2025",
@@ -1767,7 +1767,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 7.44,
         "excess_hours": 14.18,
-        "opportunity_loss_yuan": 808.26
+        "opportunity_loss_yuan": 1418.0
       }
     ]
   },
@@ -1786,7 +1786,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.71,
         "excess_hours": 13.97,
-        "opportunity_loss_yuan": 796.29
+        "opportunity_loss_yuan": 1397.0
       },
       {
         "year": "2025",
@@ -1800,7 +1800,7 @@
         "top_app": "微信",
         "top_app_hours": 3.91,
         "excess_hours": 10.66,
-        "opportunity_loss_yuan": 607.62
+        "opportunity_loss_yuan": 1066.0
       }
     ]
   },
@@ -1819,7 +1819,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.31,
         "excess_hours": 9.8,
-        "opportunity_loss_yuan": 558.6
+        "opportunity_loss_yuan": 980.0
       },
       {
         "year": "2025",
@@ -1833,7 +1833,7 @@
         "top_app": "微信",
         "top_app_hours": 5.06,
         "excess_hours": 6.94,
-        "opportunity_loss_yuan": 395.58
+        "opportunity_loss_yuan": 694.0
       }
     ]
   },
@@ -1852,7 +1852,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.51,
         "excess_hours": 8.64,
-        "opportunity_loss_yuan": 492.48
+        "opportunity_loss_yuan": 864.0
       },
       {
         "year": "2025",
@@ -1866,7 +1866,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 5.72,
         "excess_hours": 11.83,
-        "opportunity_loss_yuan": 674.31
+        "opportunity_loss_yuan": 1183.0
       }
     ]
   },
@@ -1885,7 +1885,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.7,
         "excess_hours": 9.88,
-        "opportunity_loss_yuan": 563.16
+        "opportunity_loss_yuan": 988.0
       },
       {
         "year": "2025",
@@ -1899,7 +1899,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 4.68,
         "excess_hours": 8.85,
-        "opportunity_loss_yuan": 504.45
+        "opportunity_loss_yuan": 885.0
       }
     ]
   },
@@ -1918,7 +1918,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.06,
         "excess_hours": 11.04,
-        "opportunity_loss_yuan": 629.28
+        "opportunity_loss_yuan": 1104.0
       },
       {
         "year": "2025",
@@ -1932,7 +1932,7 @@
         "top_app": "微信",
         "top_app_hours": 5.65,
         "excess_hours": 10.81,
-        "opportunity_loss_yuan": 616.17
+        "opportunity_loss_yuan": 1081.0
       }
     ]
   },
@@ -1951,7 +1951,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.1,
         "excess_hours": 11.01,
-        "opportunity_loss_yuan": 627.57
+        "opportunity_loss_yuan": 1101.0
       },
       {
         "year": "2025",
@@ -1965,7 +1965,7 @@
         "top_app": "微信",
         "top_app_hours": 6.25,
         "excess_hours": 12.29,
-        "opportunity_loss_yuan": 700.53
+        "opportunity_loss_yuan": 1229.0
       }
     ]
   },
@@ -1984,7 +1984,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.5,
         "excess_hours": 10.86,
-        "opportunity_loss_yuan": 619.02
+        "opportunity_loss_yuan": 1086.0
       },
       {
         "year": "2025",
@@ -1998,7 +1998,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 5.3,
         "excess_hours": 8.42,
-        "opportunity_loss_yuan": 479.94
+        "opportunity_loss_yuan": 842.0
       }
     ]
   },
@@ -2017,7 +2017,7 @@
         "top_app": "微信",
         "top_app_hours": 3.51,
         "excess_hours": 10.61,
-        "opportunity_loss_yuan": 604.77
+        "opportunity_loss_yuan": 1061.0
       },
       {
         "year": "2025",
@@ -2031,7 +2031,7 @@
         "top_app": "微信",
         "top_app_hours": 4.06,
         "excess_hours": 9.25,
-        "opportunity_loss_yuan": 527.25
+        "opportunity_loss_yuan": 925.0
       }
     ]
   },
@@ -2050,7 +2050,7 @@
         "top_app": "微信",
         "top_app_hours": 4.6,
         "excess_hours": 11.47,
-        "opportunity_loss_yuan": 653.79
+        "opportunity_loss_yuan": 1147.0
       },
       {
         "year": "2025",
@@ -2064,7 +2064,7 @@
         "top_app": "微信",
         "top_app_hours": 2.89,
         "excess_hours": 6.18,
-        "opportunity_loss_yuan": 352.26
+        "opportunity_loss_yuan": 618.0
       }
     ]
   },
@@ -2083,7 +2083,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.48,
         "excess_hours": 11.22,
-        "opportunity_loss_yuan": 639.54
+        "opportunity_loss_yuan": 1122.0
       },
       {
         "year": "2025",
@@ -2097,7 +2097,7 @@
         "top_app": "微信",
         "top_app_hours": 3.97,
         "excess_hours": 6.57,
-        "opportunity_loss_yuan": 374.49
+        "opportunity_loss_yuan": 657.0
       }
     ]
   },
@@ -2116,7 +2116,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.2,
         "excess_hours": 11.86,
-        "opportunity_loss_yuan": 676.02
+        "opportunity_loss_yuan": 1186.0
       },
       {
         "year": "2025",
@@ -2130,7 +2130,7 @@
         "top_app": "微信",
         "top_app_hours": 4.41,
         "excess_hours": 6.52,
-        "opportunity_loss_yuan": 371.64
+        "opportunity_loss_yuan": 652.0
       }
     ]
   },
@@ -2149,7 +2149,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.46,
         "excess_hours": 9.55,
-        "opportunity_loss_yuan": 544.35
+        "opportunity_loss_yuan": 955.0
       },
       {
         "year": "2025",
@@ -2163,7 +2163,7 @@
         "top_app": "微信",
         "top_app_hours": 2.7,
         "excess_hours": 7.35,
-        "opportunity_loss_yuan": 418.95
+        "opportunity_loss_yuan": 735.0
       }
     ]
   },
@@ -2182,7 +2182,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.61,
         "excess_hours": 11.43,
-        "opportunity_loss_yuan": 651.51
+        "opportunity_loss_yuan": 1143.0
       },
       {
         "year": "2025",
@@ -2196,7 +2196,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 4.13,
         "excess_hours": 11.0,
-        "opportunity_loss_yuan": 627.0
+        "opportunity_loss_yuan": 1100.0
       }
     ]
   },
@@ -2215,7 +2215,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.34,
         "excess_hours": 9.46,
-        "opportunity_loss_yuan": 539.22
+        "opportunity_loss_yuan": 946.0
       },
       {
         "year": "2025",
@@ -2229,7 +2229,7 @@
         "top_app": "Google",
         "top_app_hours": 4.98,
         "excess_hours": 8.45,
-        "opportunity_loss_yuan": 481.65
+        "opportunity_loss_yuan": 845.0
       }
     ]
   },
@@ -2248,7 +2248,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.2,
         "excess_hours": 5.69,
-        "opportunity_loss_yuan": 324.33
+        "opportunity_loss_yuan": 569.0
       },
       {
         "year": "2025",
@@ -2262,7 +2262,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 3.96,
         "excess_hours": 9.38,
-        "opportunity_loss_yuan": 534.66
+        "opportunity_loss_yuan": 938.0
       }
     ]
   },
@@ -2281,7 +2281,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.66,
         "excess_hours": 11.16,
-        "opportunity_loss_yuan": 636.12
+        "opportunity_loss_yuan": 1116.0
       },
       {
         "year": "2025",
@@ -2295,7 +2295,7 @@
         "top_app": "微信",
         "top_app_hours": 5.28,
         "excess_hours": 11.47,
-        "opportunity_loss_yuan": 653.79
+        "opportunity_loss_yuan": 1147.0
       }
     ]
   },
@@ -2314,7 +2314,7 @@
         "top_app": "幕布",
         "top_app_hours": 3.26,
         "excess_hours": 9.11,
-        "opportunity_loss_yuan": 519.27
+        "opportunity_loss_yuan": 911.0
       },
       {
         "year": "2025",
@@ -2328,7 +2328,7 @@
         "top_app": "微信",
         "top_app_hours": 7.1,
         "excess_hours": 10.69,
-        "opportunity_loss_yuan": 609.33
+        "opportunity_loss_yuan": 1069.0
       }
     ]
   },
@@ -2347,7 +2347,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.16,
         "excess_hours": 4.89,
-        "opportunity_loss_yuan": 278.73
+        "opportunity_loss_yuan": 489.0
       },
       {
         "year": "2025",
@@ -2361,7 +2361,7 @@
         "top_app": "微信",
         "top_app_hours": 4.1,
         "excess_hours": 8.46,
-        "opportunity_loss_yuan": 482.22
+        "opportunity_loss_yuan": 846.0
       }
     ]
   },
@@ -2380,7 +2380,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.4,
         "excess_hours": 7.85,
-        "opportunity_loss_yuan": 447.45
+        "opportunity_loss_yuan": 785.0
       },
       {
         "year": "2025",
@@ -2394,7 +2394,7 @@
         "top_app": "微信",
         "top_app_hours": 3.88,
         "excess_hours": 8.34,
-        "opportunity_loss_yuan": 475.38
+        "opportunity_loss_yuan": 834.0
       }
     ]
   },
@@ -2413,7 +2413,7 @@
         "top_app": "抖音",
         "top_app_hours": 11.37,
         "excess_hours": 13.71,
-        "opportunity_loss_yuan": 781.47
+        "opportunity_loss_yuan": 1371.0
       },
       {
         "year": "2025",
@@ -2427,7 +2427,7 @@
         "top_app": "微信",
         "top_app_hours": 5.05,
         "excess_hours": 6.92,
-        "opportunity_loss_yuan": 394.44
+        "opportunity_loss_yuan": 692.0
       }
     ]
   },
@@ -2446,7 +2446,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.17,
         "excess_hours": 9.85,
-        "opportunity_loss_yuan": 561.45
+        "opportunity_loss_yuan": 985.0
       },
       {
         "year": "2025",
@@ -2460,7 +2460,7 @@
         "top_app": "微信",
         "top_app_hours": 3.84,
         "excess_hours": 8.16,
-        "opportunity_loss_yuan": 465.12
+        "opportunity_loss_yuan": 816.0
       }
     ]
   },
@@ -2479,7 +2479,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.86,
         "excess_hours": 12.55,
-        "opportunity_loss_yuan": 715.35
+        "opportunity_loss_yuan": 1255.0
       },
       {
         "year": "2025",
@@ -2493,7 +2493,7 @@
         "top_app": "微信",
         "top_app_hours": 5.4,
         "excess_hours": 7.15,
-        "opportunity_loss_yuan": 407.55
+        "opportunity_loss_yuan": 715.0
       }
     ]
   },
@@ -2512,7 +2512,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.34,
         "excess_hours": 8.24,
-        "opportunity_loss_yuan": 469.68
+        "opportunity_loss_yuan": 824.0
       },
       {
         "year": "2025",
@@ -2526,7 +2526,7 @@
         "top_app": "微信",
         "top_app_hours": 5.98,
         "excess_hours": 10.81,
-        "opportunity_loss_yuan": 616.17
+        "opportunity_loss_yuan": 1081.0
       }
     ]
   },
@@ -2545,7 +2545,7 @@
         "top_app": "微信",
         "top_app_hours": 3.05,
         "excess_hours": 6.95,
-        "opportunity_loss_yuan": 396.15
+        "opportunity_loss_yuan": 695.0
       },
       {
         "year": "2025",
@@ -2559,7 +2559,7 @@
         "top_app": "微信",
         "top_app_hours": 9.0,
         "excess_hours": 14.82,
-        "opportunity_loss_yuan": 844.74
+        "opportunity_loss_yuan": 1482.0
       }
     ]
   },
@@ -2578,7 +2578,7 @@
         "top_app": "微信",
         "top_app_hours": 2.39,
         "excess_hours": 5.33,
-        "opportunity_loss_yuan": 303.81
+        "opportunity_loss_yuan": 533.0
       },
       {
         "year": "2025",
@@ -2592,7 +2592,7 @@
         "top_app": "Google",
         "top_app_hours": 4.3,
         "excess_hours": 8.58,
-        "opportunity_loss_yuan": 489.06
+        "opportunity_loss_yuan": 858.0
       }
     ]
   },
@@ -2611,7 +2611,7 @@
         "top_app": "微信",
         "top_app_hours": 3.4,
         "excess_hours": 5.69,
-        "opportunity_loss_yuan": 324.33
+        "opportunity_loss_yuan": 569.0
       },
       {
         "year": "2025",
@@ -2625,7 +2625,7 @@
         "top_app": "微信",
         "top_app_hours": 4.27,
         "excess_hours": 8.23,
-        "opportunity_loss_yuan": 469.11
+        "opportunity_loss_yuan": 823.0
       }
     ]
   },
@@ -2644,7 +2644,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.04,
         "excess_hours": 9.32,
-        "opportunity_loss_yuan": 531.24
+        "opportunity_loss_yuan": 932.0
       },
       {
         "year": "2025",
@@ -2658,7 +2658,7 @@
         "top_app": "微信",
         "top_app_hours": 2.42,
         "excess_hours": 5.43,
-        "opportunity_loss_yuan": 309.51
+        "opportunity_loss_yuan": 543.0
       }
     ]
   },
@@ -2677,7 +2677,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.62,
         "excess_hours": 12.85,
-        "opportunity_loss_yuan": 732.45
+        "opportunity_loss_yuan": 1285.0
       },
       {
         "year": "2025",
@@ -2691,7 +2691,7 @@
         "top_app": "微信",
         "top_app_hours": 5.76,
         "excess_hours": 11.24,
-        "opportunity_loss_yuan": 640.68
+        "opportunity_loss_yuan": 1124.0
       }
     ]
   },
@@ -2710,7 +2710,7 @@
         "top_app": "微信",
         "top_app_hours": 3.02,
         "excess_hours": 6.8,
-        "opportunity_loss_yuan": 387.6
+        "opportunity_loss_yuan": 680.0
       },
       {
         "year": "2025",
@@ -2724,7 +2724,7 @@
         "top_app": "微信",
         "top_app_hours": 5.11,
         "excess_hours": 8.48,
-        "opportunity_loss_yuan": 483.36
+        "opportunity_loss_yuan": 848.0
       }
     ]
   },
@@ -2743,7 +2743,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.66,
         "excess_hours": 10.92,
-        "opportunity_loss_yuan": 622.44
+        "opportunity_loss_yuan": 1092.0
       },
       {
         "year": "2025",
@@ -2757,7 +2757,7 @@
         "top_app": "微信",
         "top_app_hours": 3.81,
         "excess_hours": 7.03,
-        "opportunity_loss_yuan": 400.71
+        "opportunity_loss_yuan": 703.0
       }
     ]
   },
@@ -2776,7 +2776,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.73,
         "excess_hours": 14.96,
-        "opportunity_loss_yuan": 852.72
+        "opportunity_loss_yuan": 1496.0
       },
       {
         "year": "2025",
@@ -2790,7 +2790,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 5.08,
         "excess_hours": 9.75,
-        "opportunity_loss_yuan": 555.75
+        "opportunity_loss_yuan": 975.0
       }
     ]
   },
@@ -2809,7 +2809,7 @@
         "top_app": "微信",
         "top_app_hours": 4.45,
         "excess_hours": 9.62,
-        "opportunity_loss_yuan": 548.34
+        "opportunity_loss_yuan": 962.0
       },
       {
         "year": "2025",
@@ -2823,7 +2823,7 @@
         "top_app": "微信",
         "top_app_hours": 7.08,
         "excess_hours": 18.04,
-        "opportunity_loss_yuan": 1028.28
+        "opportunity_loss_yuan": 1804.0
       }
     ]
   },
@@ -2842,7 +2842,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.17,
         "excess_hours": 8.73,
-        "opportunity_loss_yuan": 497.61
+        "opportunity_loss_yuan": 873.0
       },
       {
         "year": "2025",
@@ -2856,7 +2856,7 @@
         "top_app": "微信",
         "top_app_hours": 3.63,
         "excess_hours": 7.81,
-        "opportunity_loss_yuan": 445.17
+        "opportunity_loss_yuan": 781.0
       }
     ]
   },
@@ -2875,7 +2875,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.06,
         "excess_hours": 8.84,
-        "opportunity_loss_yuan": 503.88
+        "opportunity_loss_yuan": 884.0
       },
       {
         "year": "2025",
@@ -2889,7 +2889,7 @@
         "top_app": "微信",
         "top_app_hours": 3.42,
         "excess_hours": 9.35,
-        "opportunity_loss_yuan": 532.95
+        "opportunity_loss_yuan": 935.0
       }
     ]
   },
@@ -2908,7 +2908,7 @@
         "top_app": "微信",
         "top_app_hours": 7.68,
         "excess_hours": 13.73,
-        "opportunity_loss_yuan": 782.61
+        "opportunity_loss_yuan": 1373.0
       },
       {
         "year": "2025",
@@ -2922,7 +2922,7 @@
         "top_app": "微信",
         "top_app_hours": 6.65,
         "excess_hours": 10.99,
-        "opportunity_loss_yuan": 626.43
+        "opportunity_loss_yuan": 1099.0
       }
     ]
   },
@@ -2941,7 +2941,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.71,
         "excess_hours": 6.92,
-        "opportunity_loss_yuan": 394.44
+        "opportunity_loss_yuan": 692.0
       },
       {
         "year": "2025",
@@ -2955,7 +2955,7 @@
         "top_app": "微信",
         "top_app_hours": 4.15,
         "excess_hours": 9.03,
-        "opportunity_loss_yuan": 514.71
+        "opportunity_loss_yuan": 903.0
       }
     ]
   },
@@ -2974,7 +2974,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.75,
         "excess_hours": 7.16,
-        "opportunity_loss_yuan": 408.12
+        "opportunity_loss_yuan": 716.0
       },
       {
         "year": "2025",
@@ -2988,7 +2988,7 @@
         "top_app": "微信",
         "top_app_hours": 5.99,
         "excess_hours": 10.79,
-        "opportunity_loss_yuan": 615.03
+        "opportunity_loss_yuan": 1079.0
       }
     ]
   },
@@ -3007,7 +3007,7 @@
         "top_app": "微信",
         "top_app_hours": 4.18,
         "excess_hours": 8.68,
-        "opportunity_loss_yuan": 494.76
+        "opportunity_loss_yuan": 868.0
       },
       {
         "year": "2025",
@@ -3021,7 +3021,7 @@
         "top_app": "微信",
         "top_app_hours": 6.1,
         "excess_hours": 10.35,
-        "opportunity_loss_yuan": 589.95
+        "opportunity_loss_yuan": 1035.0
       }
     ]
   },
@@ -3040,7 +3040,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.66,
         "excess_hours": 8.13,
-        "opportunity_loss_yuan": 463.41
+        "opportunity_loss_yuan": 813.0
       },
       {
         "year": "2025",
@@ -3054,7 +3054,7 @@
         "top_app": "微信",
         "top_app_hours": 6.49,
         "excess_hours": 8.77,
-        "opportunity_loss_yuan": 499.89
+        "opportunity_loss_yuan": 877.0
       }
     ]
   },
@@ -3073,7 +3073,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.1,
         "excess_hours": 8.8,
-        "opportunity_loss_yuan": 501.6
+        "opportunity_loss_yuan": 880.0
       },
       {
         "year": "2025",
@@ -3087,7 +3087,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 11.83,
         "excess_hours": 17.82,
-        "opportunity_loss_yuan": 1015.74
+        "opportunity_loss_yuan": 1782.0
       }
     ]
   },
@@ -3106,7 +3106,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.72,
         "excess_hours": 8.31,
-        "opportunity_loss_yuan": 473.67
+        "opportunity_loss_yuan": 831.0
       },
       {
         "year": "2025",
@@ -3120,7 +3120,7 @@
         "top_app": "微信",
         "top_app_hours": 11.71,
         "excess_hours": 12.72,
-        "opportunity_loss_yuan": 725.04
+        "opportunity_loss_yuan": 1272.0
       }
     ]
   },
@@ -3139,7 +3139,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.9,
         "excess_hours": 9.76,
-        "opportunity_loss_yuan": 556.32
+        "opportunity_loss_yuan": 976.0
       },
       {
         "year": "2025",
@@ -3153,7 +3153,7 @@
         "top_app": "微信",
         "top_app_hours": 11.71,
         "excess_hours": 14.13,
-        "opportunity_loss_yuan": 805.41
+        "opportunity_loss_yuan": 1413.0
       }
     ]
   },
@@ -3172,7 +3172,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.62,
         "excess_hours": 5.72,
-        "opportunity_loss_yuan": 326.04
+        "opportunity_loss_yuan": 572.0
       },
       {
         "year": "2025",
@@ -3186,7 +3186,7 @@
         "top_app": "微信",
         "top_app_hours": 7.39,
         "excess_hours": 10.92,
-        "opportunity_loss_yuan": 622.44
+        "opportunity_loss_yuan": 1092.0
       }
     ]
   },
@@ -3205,7 +3205,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.14,
         "excess_hours": 6.46,
-        "opportunity_loss_yuan": 368.22
+        "opportunity_loss_yuan": 646.0
       },
       {
         "year": "2025",
@@ -3219,7 +3219,7 @@
         "top_app": "微信",
         "top_app_hours": 9.22,
         "excess_hours": 9.87,
-        "opportunity_loss_yuan": 562.59
+        "opportunity_loss_yuan": 987.0
       }
     ]
   },
@@ -3238,7 +3238,7 @@
         "top_app": "微信",
         "top_app_hours": 7.59,
         "excess_hours": 12.2,
-        "opportunity_loss_yuan": 695.4
+        "opportunity_loss_yuan": 1220.0
       },
       {
         "year": "2025",
@@ -3252,7 +3252,7 @@
         "top_app": "微信",
         "top_app_hours": 3.94,
         "excess_hours": 7.95,
-        "opportunity_loss_yuan": 453.15
+        "opportunity_loss_yuan": 795.0
       }
     ]
   },
@@ -3271,7 +3271,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.62,
         "excess_hours": 9.89,
-        "opportunity_loss_yuan": 563.73
+        "opportunity_loss_yuan": 989.0
       },
       {
         "year": "2025",
@@ -3285,7 +3285,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 3.88,
         "excess_hours": 7.82,
-        "opportunity_loss_yuan": 445.74
+        "opportunity_loss_yuan": 782.0
       }
     ]
   },
@@ -3304,7 +3304,7 @@
         "top_app": "微信",
         "top_app_hours": 3.88,
         "excess_hours": 9.89,
-        "opportunity_loss_yuan": 563.73
+        "opportunity_loss_yuan": 989.0
       },
       {
         "year": "2025",
@@ -3318,7 +3318,7 @@
         "top_app": "微信",
         "top_app_hours": 3.4,
         "excess_hours": 5.75,
-        "opportunity_loss_yuan": 327.75
+        "opportunity_loss_yuan": 575.0
       }
     ]
   },
@@ -3337,7 +3337,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.59,
         "excess_hours": 8.76,
-        "opportunity_loss_yuan": 499.32
+        "opportunity_loss_yuan": 876.0
       },
       {
         "year": "2025",
@@ -3351,7 +3351,7 @@
         "top_app": "微信",
         "top_app_hours": 5.19,
         "excess_hours": 10.19,
-        "opportunity_loss_yuan": 580.83
+        "opportunity_loss_yuan": 1019.0
       }
     ]
   },
@@ -3370,7 +3370,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 7.92,
         "excess_hours": 19.97,
-        "opportunity_loss_yuan": 1138.29
+        "opportunity_loss_yuan": 1997.0
       },
       {
         "year": "2025",
@@ -3384,7 +3384,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 5.21,
         "excess_hours": 10.75,
-        "opportunity_loss_yuan": 612.75
+        "opportunity_loss_yuan": 1075.0
       }
     ]
   },
@@ -3403,7 +3403,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.96,
         "excess_hours": 8.66,
-        "opportunity_loss_yuan": 493.62
+        "opportunity_loss_yuan": 866.0
       },
       {
         "year": "2025",
@@ -3417,7 +3417,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 4.79,
         "excess_hours": 11.23,
-        "opportunity_loss_yuan": 640.11
+        "opportunity_loss_yuan": 1123.0
       }
     ]
   },
@@ -3436,7 +3436,7 @@
         "top_app": "微信",
         "top_app_hours": 6.44,
         "excess_hours": 11.29,
-        "opportunity_loss_yuan": 643.53
+        "opportunity_loss_yuan": 1129.0
       },
       {
         "year": "2025",
@@ -3450,7 +3450,7 @@
         "top_app": "微信",
         "top_app_hours": 2.92,
         "excess_hours": 5.11,
-        "opportunity_loss_yuan": 291.27
+        "opportunity_loss_yuan": 511.0
       }
     ]
   },
@@ -3469,7 +3469,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.92,
         "excess_hours": 9.94,
-        "opportunity_loss_yuan": 566.58
+        "opportunity_loss_yuan": 994.0
       },
       {
         "year": "2025",
@@ -3483,7 +3483,7 @@
         "top_app": "Google",
         "top_app_hours": 2.69,
         "excess_hours": 8.56,
-        "opportunity_loss_yuan": 487.92
+        "opportunity_loss_yuan": 856.0
       }
     ]
   },
@@ -3502,7 +3502,7 @@
         "top_app": "微信",
         "top_app_hours": 4.47,
         "excess_hours": 9.7,
-        "opportunity_loss_yuan": 552.9
+        "opportunity_loss_yuan": 970.0
       },
       {
         "year": "2025",
@@ -3516,7 +3516,7 @@
         "top_app": "微信",
         "top_app_hours": 4.41,
         "excess_hours": 9.23,
-        "opportunity_loss_yuan": 526.11
+        "opportunity_loss_yuan": 923.0
       }
     ]
   },
@@ -3535,7 +3535,7 @@
         "top_app": "微信",
         "top_app_hours": 4.64,
         "excess_hours": 7.75,
-        "opportunity_loss_yuan": 441.75
+        "opportunity_loss_yuan": 775.0
       },
       {
         "year": "2025",
@@ -3549,7 +3549,7 @@
         "top_app": "微信",
         "top_app_hours": 7.45,
         "excess_hours": 11.55,
-        "opportunity_loss_yuan": 658.35
+        "opportunity_loss_yuan": 1155.0
       }
     ]
   },
@@ -3568,7 +3568,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.56,
         "excess_hours": 8.99,
-        "opportunity_loss_yuan": 512.43
+        "opportunity_loss_yuan": 899.0
       },
       {
         "year": "2025",
@@ -3582,7 +3582,7 @@
         "top_app": "微信",
         "top_app_hours": 8.12,
         "excess_hours": 12.91,
-        "opportunity_loss_yuan": 735.87
+        "opportunity_loss_yuan": 1291.0
       }
     ]
   },
@@ -3601,7 +3601,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.81,
         "excess_hours": 12.03,
-        "opportunity_loss_yuan": 685.71
+        "opportunity_loss_yuan": 1203.0
       },
       {
         "year": "2025",
@@ -3615,7 +3615,7 @@
         "top_app": "微信",
         "top_app_hours": 4.8,
         "excess_hours": 7.11,
-        "opportunity_loss_yuan": 405.27
+        "opportunity_loss_yuan": 711.0
       }
     ]
   },
@@ -3634,7 +3634,7 @@
         "top_app": "微信",
         "top_app_hours": 4.51,
         "excess_hours": 9.55,
-        "opportunity_loss_yuan": 544.35
+        "opportunity_loss_yuan": 955.0
       },
       {
         "year": "2025",
@@ -3648,7 +3648,7 @@
         "top_app": "微信",
         "top_app_hours": 6.93,
         "excess_hours": 16.99,
-        "opportunity_loss_yuan": 968.43
+        "opportunity_loss_yuan": 1699.0
       }
     ]
   },
@@ -3667,7 +3667,7 @@
         "top_app": "微信",
         "top_app_hours": 3.44,
         "excess_hours": 11.17,
-        "opportunity_loss_yuan": 636.69
+        "opportunity_loss_yuan": 1117.0
       },
       {
         "year": "2025",
@@ -3681,7 +3681,7 @@
         "top_app": "微信",
         "top_app_hours": 5.45,
         "excess_hours": 14.75,
-        "opportunity_loss_yuan": 840.75
+        "opportunity_loss_yuan": 1475.0
       }
     ]
   },
@@ -3700,7 +3700,7 @@
         "top_app": "微信",
         "top_app_hours": 3.12,
         "excess_hours": 9.32,
-        "opportunity_loss_yuan": 531.24
+        "opportunity_loss_yuan": 932.0
       },
       {
         "year": "2025",
@@ -3714,7 +3714,7 @@
         "top_app": "微信",
         "top_app_hours": 4.34,
         "excess_hours": 6.63,
-        "opportunity_loss_yuan": 377.91
+        "opportunity_loss_yuan": 663.0
       }
     ]
   },
@@ -3733,7 +3733,7 @@
         "top_app": "微信",
         "top_app_hours": 5.91,
         "excess_hours": 8.28,
-        "opportunity_loss_yuan": 471.96
+        "opportunity_loss_yuan": 828.0
       },
       {
         "year": "2025",
@@ -3747,7 +3747,7 @@
         "top_app": "微信",
         "top_app_hours": 6.89,
         "excess_hours": 12.15,
-        "opportunity_loss_yuan": 692.55
+        "opportunity_loss_yuan": 1215.0
       }
     ]
   },
@@ -3766,7 +3766,7 @@
         "top_app": "微信",
         "top_app_hours": 4.63,
         "excess_hours": 7.77,
-        "opportunity_loss_yuan": 442.89
+        "opportunity_loss_yuan": 777.0
       },
       {
         "year": "2025",
@@ -3780,7 +3780,7 @@
         "top_app": "微信",
         "top_app_hours": 4.9,
         "excess_hours": 9.25,
-        "opportunity_loss_yuan": 527.25
+        "opportunity_loss_yuan": 925.0
       }
     ]
   },
@@ -3799,7 +3799,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.8,
         "excess_hours": 8.45,
-        "opportunity_loss_yuan": 481.65
+        "opportunity_loss_yuan": 845.0
       },
       {
         "year": "2025",
@@ -3813,7 +3813,7 @@
         "top_app": "微信",
         "top_app_hours": 5.91,
         "excess_hours": 10.64,
-        "opportunity_loss_yuan": 606.48
+        "opportunity_loss_yuan": 1064.0
       }
     ]
   },
@@ -3832,7 +3832,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 4.25,
         "excess_hours": 15.31,
-        "opportunity_loss_yuan": 872.67
+        "opportunity_loss_yuan": 1531.0
       },
       {
         "year": "2025",
@@ -3846,7 +3846,7 @@
         "top_app": "微信",
         "top_app_hours": 5.13,
         "excess_hours": 9.64,
-        "opportunity_loss_yuan": 549.48
+        "opportunity_loss_yuan": 964.0
       }
     ]
   },
@@ -3865,7 +3865,7 @@
         "top_app": "抖音",
         "top_app_hours": 12.26,
         "excess_hours": 17.64,
-        "opportunity_loss_yuan": 1005.48
+        "opportunity_loss_yuan": 1764.0
       },
       {
         "year": "2025",
@@ -3879,7 +3879,7 @@
         "top_app": "微信",
         "top_app_hours": 2.55,
         "excess_hours": 5.13,
-        "opportunity_loss_yuan": 292.41
+        "opportunity_loss_yuan": 513.0
       }
     ]
   },
@@ -3898,7 +3898,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.9,
         "excess_hours": 11.47,
-        "opportunity_loss_yuan": 653.79
+        "opportunity_loss_yuan": 1147.0
       },
       {
         "year": "2026",
@@ -3912,7 +3912,7 @@
         "top_app": "浏览器",
         "top_app_hours": 3.25,
         "excess_hours": 5.95,
-        "opportunity_loss_yuan": 339.15
+        "opportunity_loss_yuan": 595.0
       }
     ]
   },
@@ -3931,7 +3931,7 @@
         "top_app": "微信",
         "top_app_hours": 4.23,
         "excess_hours": 8.75,
-        "opportunity_loss_yuan": 498.75
+        "opportunity_loss_yuan": 875.0
       },
       {
         "year": "2026",
@@ -3945,7 +3945,7 @@
         "top_app": "微信",
         "top_app_hours": 7.46,
         "excess_hours": 9.79,
-        "opportunity_loss_yuan": 558.03
+        "opportunity_loss_yuan": 979.0
       }
     ]
   },
@@ -3964,7 +3964,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.21,
         "excess_hours": 7.37,
-        "opportunity_loss_yuan": 420.09
+        "opportunity_loss_yuan": 737.0
       },
       {
         "year": "2026",
@@ -3978,7 +3978,7 @@
         "top_app": "浏览器",
         "top_app_hours": 6.15,
         "excess_hours": 12.54,
-        "opportunity_loss_yuan": 714.78
+        "opportunity_loss_yuan": 1254.0
       }
     ]
   },
@@ -3997,7 +3997,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.27,
         "excess_hours": 6.26,
-        "opportunity_loss_yuan": 356.82
+        "opportunity_loss_yuan": 626.0
       },
       {
         "year": "2026",
@@ -4011,7 +4011,7 @@
         "top_app": "微信",
         "top_app_hours": 3.08,
         "excess_hours": 8.47,
-        "opportunity_loss_yuan": 482.79
+        "opportunity_loss_yuan": 847.0
       }
     ]
   },
@@ -4030,7 +4030,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.6,
         "excess_hours": 7.74,
-        "opportunity_loss_yuan": 441.18
+        "opportunity_loss_yuan": 774.0
       },
       {
         "year": "2026",
@@ -4044,7 +4044,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 2.58,
         "excess_hours": 8.81,
-        "opportunity_loss_yuan": 502.17
+        "opportunity_loss_yuan": 881.0
       }
     ]
   },
@@ -4063,7 +4063,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.11,
         "excess_hours": 7.8,
-        "opportunity_loss_yuan": 444.6
+        "opportunity_loss_yuan": 780.0
       },
       {
         "year": "2026",
@@ -4077,7 +4077,7 @@
         "top_app": "微信",
         "top_app_hours": 5.8,
         "excess_hours": 10.59,
-        "opportunity_loss_yuan": 603.63
+        "opportunity_loss_yuan": 1059.0
       }
     ]
   },
@@ -4096,7 +4096,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.91,
         "excess_hours": 9.5,
-        "opportunity_loss_yuan": 541.5
+        "opportunity_loss_yuan": 950.0
       },
       {
         "year": "2026",
@@ -4110,7 +4110,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 6.87,
         "excess_hours": 13.45,
-        "opportunity_loss_yuan": 766.65
+        "opportunity_loss_yuan": 1345.0
       }
     ]
   },
@@ -4129,7 +4129,7 @@
         "top_app": "微信",
         "top_app_hours": 4.7,
         "excess_hours": 5.78,
-        "opportunity_loss_yuan": 329.46
+        "opportunity_loss_yuan": 578.0
       },
       {
         "year": "2026",
@@ -4143,7 +4143,7 @@
         "top_app": "微信",
         "top_app_hours": 4.31,
         "excess_hours": 9.68,
-        "opportunity_loss_yuan": 551.76
+        "opportunity_loss_yuan": 968.0
       }
     ]
   },
@@ -4162,7 +4162,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.63,
         "excess_hours": 7.42,
-        "opportunity_loss_yuan": 422.94
+        "opportunity_loss_yuan": 742.0
       },
       {
         "year": "2026",
@@ -4176,7 +4176,7 @@
         "top_app": "微信",
         "top_app_hours": 6.16,
         "excess_hours": 10.71,
-        "opportunity_loss_yuan": 610.47
+        "opportunity_loss_yuan": 1071.0
       }
     ]
   },
@@ -4195,7 +4195,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.22,
         "excess_hours": 15.24,
-        "opportunity_loss_yuan": 868.68
+        "opportunity_loss_yuan": 1524.0
       },
       {
         "year": "2026",
@@ -4209,7 +4209,7 @@
         "top_app": "微信",
         "top_app_hours": 3.87,
         "excess_hours": 8.38,
-        "opportunity_loss_yuan": 477.66
+        "opportunity_loss_yuan": 838.0
       }
     ]
   },
@@ -4228,7 +4228,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.1,
         "excess_hours": 9.44,
-        "opportunity_loss_yuan": 538.08
+        "opportunity_loss_yuan": 944.0
       },
       {
         "year": "2026",
@@ -4242,7 +4242,7 @@
         "top_app": "微信",
         "top_app_hours": 4.83,
         "excess_hours": 8.76,
-        "opportunity_loss_yuan": 499.32
+        "opportunity_loss_yuan": 876.0
       }
     ]
   },
@@ -4261,7 +4261,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.37,
         "excess_hours": 10.99,
-        "opportunity_loss_yuan": 626.43
+        "opportunity_loss_yuan": 1099.0
       },
       {
         "year": "2026",
@@ -4275,7 +4275,7 @@
         "top_app": "微信",
         "top_app_hours": 6.52,
         "excess_hours": 10.18,
-        "opportunity_loss_yuan": 580.26
+        "opportunity_loss_yuan": 1018.0
       }
     ]
   },
@@ -4294,7 +4294,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.88,
         "excess_hours": 10.14,
-        "opportunity_loss_yuan": 577.98
+        "opportunity_loss_yuan": 1014.0
       },
       {
         "year": "2026",
@@ -4308,7 +4308,7 @@
         "top_app": "微信",
         "top_app_hours": 9.19,
         "excess_hours": 10.49,
-        "opportunity_loss_yuan": 597.93
+        "opportunity_loss_yuan": 1049.0
       }
     ]
   },
@@ -4327,7 +4327,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.78,
         "excess_hours": 9.32,
-        "opportunity_loss_yuan": 531.24
+        "opportunity_loss_yuan": 932.0
       },
       {
         "year": "2026",
@@ -4341,7 +4341,7 @@
         "top_app": "微信",
         "top_app_hours": 7.84,
         "excess_hours": 11.94,
-        "opportunity_loss_yuan": 680.58
+        "opportunity_loss_yuan": 1194.0
       }
     ]
   },
@@ -4360,7 +4360,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.42,
         "excess_hours": 10.1,
-        "opportunity_loss_yuan": 575.7
+        "opportunity_loss_yuan": 1010.0
       },
       {
         "year": "2026",
@@ -4374,7 +4374,7 @@
         "top_app": "微信",
         "top_app_hours": 7.22,
         "excess_hours": 11.14,
-        "opportunity_loss_yuan": 634.98
+        "opportunity_loss_yuan": 1114.0
       }
     ]
   },
@@ -4393,7 +4393,7 @@
         "top_app": "com.tencent.tmgp.sgame",
         "top_app_hours": 3.0,
         "excess_hours": 7.36,
-        "opportunity_loss_yuan": 419.52
+        "opportunity_loss_yuan": 736.0
       },
       {
         "year": "2026",
@@ -4407,7 +4407,7 @@
         "top_app": "微信",
         "top_app_hours": 4.77,
         "excess_hours": 5.48,
-        "opportunity_loss_yuan": 312.36
+        "opportunity_loss_yuan": 548.0
       }
     ]
   },
@@ -4426,7 +4426,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.02,
         "excess_hours": 11.73,
-        "opportunity_loss_yuan": 668.61
+        "opportunity_loss_yuan": 1173.0
       },
       {
         "year": "2026",
@@ -4440,7 +4440,7 @@
         "top_app": "微信",
         "top_app_hours": 4.51,
         "excess_hours": 12.81,
-        "opportunity_loss_yuan": 730.17
+        "opportunity_loss_yuan": 1281.0
       }
     ]
   },
@@ -4459,7 +4459,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.86,
         "excess_hours": 8.95,
-        "opportunity_loss_yuan": 510.15
+        "opportunity_loss_yuan": 895.0
       },
       {
         "year": "2026",
@@ -4473,7 +4473,7 @@
         "top_app": "微信",
         "top_app_hours": 6.98,
         "excess_hours": 11.48,
-        "opportunity_loss_yuan": 654.36
+        "opportunity_loss_yuan": 1148.0
       }
     ]
   },
@@ -4492,7 +4492,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.32,
         "excess_hours": 9.42,
-        "opportunity_loss_yuan": 536.94
+        "opportunity_loss_yuan": 942.0
       },
       {
         "year": "2026",
@@ -4506,7 +4506,7 @@
         "top_app": "微信",
         "top_app_hours": 6.02,
         "excess_hours": 9.75,
-        "opportunity_loss_yuan": 555.75
+        "opportunity_loss_yuan": 975.0
       }
     ]
   },
@@ -4525,7 +4525,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.26,
         "excess_hours": 6.82,
-        "opportunity_loss_yuan": 388.74
+        "opportunity_loss_yuan": 682.0
       },
       {
         "year": "2026",
@@ -4539,7 +4539,7 @@
         "top_app": "微信",
         "top_app_hours": 8.63,
         "excess_hours": 11.88,
-        "opportunity_loss_yuan": 677.16
+        "opportunity_loss_yuan": 1188.0
       }
     ]
   },
@@ -4558,7 +4558,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.5,
         "excess_hours": 8.42,
-        "opportunity_loss_yuan": 479.94
+        "opportunity_loss_yuan": 842.0
       },
       {
         "year": "2026",
@@ -4572,7 +4572,7 @@
         "top_app": "微信",
         "top_app_hours": 12.36,
         "excess_hours": 14.13,
-        "opportunity_loss_yuan": 805.41
+        "opportunity_loss_yuan": 1413.0
       }
     ]
   },
@@ -4591,7 +4591,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.08,
         "excess_hours": 8.37,
-        "opportunity_loss_yuan": 477.09
+        "opportunity_loss_yuan": 837.0
       },
       {
         "year": "2026",
@@ -4605,7 +4605,7 @@
         "top_app": "微信",
         "top_app_hours": 5.87,
         "excess_hours": 9.27,
-        "opportunity_loss_yuan": 528.39
+        "opportunity_loss_yuan": 927.0
       }
     ]
   },
@@ -4624,7 +4624,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.7,
         "excess_hours": 6.13,
-        "opportunity_loss_yuan": 349.41
+        "opportunity_loss_yuan": 613.0
       },
       {
         "year": "2026",
@@ -4638,7 +4638,7 @@
         "top_app": "微信",
         "top_app_hours": 6.48,
         "excess_hours": 10.8,
-        "opportunity_loss_yuan": 615.6
+        "opportunity_loss_yuan": 1080.0
       }
     ]
   },
@@ -4657,7 +4657,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.95,
         "excess_hours": 8.59,
-        "opportunity_loss_yuan": 489.63
+        "opportunity_loss_yuan": 859.0
       },
       {
         "year": "2026",
@@ -4671,7 +4671,7 @@
         "top_app": "微信",
         "top_app_hours": 7.86,
         "excess_hours": 10.55,
-        "opportunity_loss_yuan": 601.35
+        "opportunity_loss_yuan": 1055.0
       }
     ]
   },
@@ -4690,7 +4690,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.07,
         "excess_hours": 5.1,
-        "opportunity_loss_yuan": 290.7
+        "opportunity_loss_yuan": 510.0
       },
       {
         "year": "2026",
@@ -4704,7 +4704,7 @@
         "top_app": "微信",
         "top_app_hours": 5.24,
         "excess_hours": 8.11,
-        "opportunity_loss_yuan": 462.27
+        "opportunity_loss_yuan": 811.0
       }
     ]
   },
@@ -4723,7 +4723,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.24,
         "excess_hours": 8.64,
-        "opportunity_loss_yuan": 492.48
+        "opportunity_loss_yuan": 864.0
       },
       {
         "year": "2026",
@@ -4737,7 +4737,7 @@
         "top_app": "微信",
         "top_app_hours": 5.88,
         "excess_hours": 7.79,
-        "opportunity_loss_yuan": 444.03
+        "opportunity_loss_yuan": 779.0
       }
     ]
   },
@@ -4756,7 +4756,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.02,
         "excess_hours": 6.35,
-        "opportunity_loss_yuan": 361.95
+        "opportunity_loss_yuan": 635.0
       },
       {
         "year": "2026",
@@ -4770,7 +4770,7 @@
         "top_app": "微信",
         "top_app_hours": 7.6,
         "excess_hours": 9.13,
-        "opportunity_loss_yuan": 520.41
+        "opportunity_loss_yuan": 913.0
       }
     ]
   },
@@ -4789,7 +4789,7 @@
         "top_app": "微信",
         "top_app_hours": 1.85,
         "excess_hours": 3.42,
-        "opportunity_loss_yuan": 194.94
+        "opportunity_loss_yuan": 342.0
       },
       {
         "year": "2026",
@@ -4803,7 +4803,7 @@
         "top_app": "微信",
         "top_app_hours": 8.64,
         "excess_hours": 12.41,
-        "opportunity_loss_yuan": 707.37
+        "opportunity_loss_yuan": 1241.0
       }
     ]
   },
@@ -4822,7 +4822,7 @@
         "top_app": "微信",
         "top_app_hours": 5.44,
         "excess_hours": 10.89,
-        "opportunity_loss_yuan": 620.73
+        "opportunity_loss_yuan": 1089.0
       },
       {
         "year": "2026",
@@ -4836,7 +4836,7 @@
         "top_app": "微信",
         "top_app_hours": 5.41,
         "excess_hours": 9.8,
-        "opportunity_loss_yuan": 558.6
+        "opportunity_loss_yuan": 980.0
       }
     ]
   },
@@ -4855,7 +4855,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.81,
         "excess_hours": 7.65,
-        "opportunity_loss_yuan": 436.05
+        "opportunity_loss_yuan": 765.0
       },
       {
         "year": "2026",
@@ -4869,7 +4869,7 @@
         "top_app": "微信",
         "top_app_hours": 6.35,
         "excess_hours": 12.89,
-        "opportunity_loss_yuan": 734.73
+        "opportunity_loss_yuan": 1289.0
       }
     ]
   },
@@ -4888,7 +4888,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 6.49,
         "excess_hours": 9.28,
-        "opportunity_loss_yuan": 528.96
+        "opportunity_loss_yuan": 928.0
       },
       {
         "year": "2026",
@@ -4902,7 +4902,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 4.77,
         "excess_hours": 15.5,
-        "opportunity_loss_yuan": 883.5
+        "opportunity_loss_yuan": 1550.0
       }
     ]
   },
@@ -4921,7 +4921,7 @@
         "top_app": "微信",
         "top_app_hours": 2.43,
         "excess_hours": 3.01,
-        "opportunity_loss_yuan": 171.57
+        "opportunity_loss_yuan": 301.0
       },
       {
         "year": "2026",
@@ -4935,7 +4935,7 @@
         "top_app": "微信",
         "top_app_hours": 9.38,
         "excess_hours": 12.99,
-        "opportunity_loss_yuan": 740.43
+        "opportunity_loss_yuan": 1299.0
       }
     ]
   },
@@ -4954,7 +4954,7 @@
         "top_app": "抖音",
         "top_app_hours": 11.06,
         "excess_hours": 15.54,
-        "opportunity_loss_yuan": 885.78
+        "opportunity_loss_yuan": 1554.0
       },
       {
         "year": "2026",
@@ -4968,7 +4968,7 @@
         "top_app": "微信",
         "top_app_hours": 7.28,
         "excess_hours": 12.5,
-        "opportunity_loss_yuan": 712.5
+        "opportunity_loss_yuan": 1250.0
       }
     ]
   },
@@ -4987,7 +4987,7 @@
         "top_app": "微信",
         "top_app_hours": 3.06,
         "excess_hours": 6.11,
-        "opportunity_loss_yuan": 348.27
+        "opportunity_loss_yuan": 611.0
       },
       {
         "year": "2026",
@@ -5001,7 +5001,7 @@
         "top_app": "微信",
         "top_app_hours": 6.53,
         "excess_hours": 9.75,
-        "opportunity_loss_yuan": 555.75
+        "opportunity_loss_yuan": 975.0
       }
     ]
   },
@@ -5020,7 +5020,7 @@
         "top_app": "微信",
         "top_app_hours": 3.59,
         "excess_hours": 6.36,
-        "opportunity_loss_yuan": 362.52
+        "opportunity_loss_yuan": 636.0
       },
       {
         "year": "2026",
@@ -5034,7 +5034,7 @@
         "top_app": "微信",
         "top_app_hours": 5.55,
         "excess_hours": 9.4,
-        "opportunity_loss_yuan": 535.8
+        "opportunity_loss_yuan": 940.0
       }
     ]
   },
@@ -5053,7 +5053,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.35,
         "excess_hours": 5.82,
-        "opportunity_loss_yuan": 331.74
+        "opportunity_loss_yuan": 582.0
       },
       {
         "year": "2026",
@@ -5067,7 +5067,7 @@
         "top_app": "微信",
         "top_app_hours": 4.23,
         "excess_hours": 8.05,
-        "opportunity_loss_yuan": 458.85
+        "opportunity_loss_yuan": 805.0
       }
     ]
   },
@@ -5086,7 +5086,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.75,
         "excess_hours": 8.67,
-        "opportunity_loss_yuan": 494.19
+        "opportunity_loss_yuan": 867.0
       },
       {
         "year": "2026",
@@ -5100,7 +5100,7 @@
         "top_app": "微信",
         "top_app_hours": 2.65,
         "excess_hours": 4.48,
-        "opportunity_loss_yuan": 255.36
+        "opportunity_loss_yuan": 448.0
       }
     ]
   },
@@ -5119,7 +5119,7 @@
         "top_app": "微信",
         "top_app_hours": 4.11,
         "excess_hours": 8.3,
-        "opportunity_loss_yuan": 473.1
+        "opportunity_loss_yuan": 830.0
       },
       {
         "year": "2026",
@@ -5133,7 +5133,7 @@
         "top_app": "微信",
         "top_app_hours": 3.17,
         "excess_hours": 6.03,
-        "opportunity_loss_yuan": 343.71
+        "opportunity_loss_yuan": 603.0
       }
     ]
   },
@@ -5152,7 +5152,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.57,
         "excess_hours": 8.87,
-        "opportunity_loss_yuan": 505.59
+        "opportunity_loss_yuan": 887.0
       },
       {
         "year": "2026",
@@ -5166,7 +5166,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 2.56,
         "excess_hours": 8.43,
-        "opportunity_loss_yuan": 480.51
+        "opportunity_loss_yuan": 843.0
       }
     ]
   },
@@ -5185,7 +5185,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.66,
         "excess_hours": 7.5,
-        "opportunity_loss_yuan": 427.5
+        "opportunity_loss_yuan": 750.0
       },
       {
         "year": "2026",
@@ -5199,7 +5199,7 @@
         "top_app": "微信",
         "top_app_hours": 5.35,
         "excess_hours": 8.41,
-        "opportunity_loss_yuan": 479.37
+        "opportunity_loss_yuan": 841.0
       }
     ]
   },
@@ -5218,7 +5218,7 @@
         "top_app": "微信",
         "top_app_hours": 3.11,
         "excess_hours": 10.22,
-        "opportunity_loss_yuan": 582.54
+        "opportunity_loss_yuan": 1022.0
       },
       {
         "year": "2026",
@@ -5232,7 +5232,7 @@
         "top_app": "微信",
         "top_app_hours": 5.89,
         "excess_hours": 10.04,
-        "opportunity_loss_yuan": 572.28
+        "opportunity_loss_yuan": 1004.0
       }
     ]
   },
@@ -5251,7 +5251,7 @@
         "top_app": "微信",
         "top_app_hours": 4.01,
         "excess_hours": 10.11,
-        "opportunity_loss_yuan": 576.27
+        "opportunity_loss_yuan": 1011.0
       },
       {
         "year": "2026",
@@ -5265,7 +5265,7 @@
         "top_app": "微信",
         "top_app_hours": 6.96,
         "excess_hours": 9.52,
-        "opportunity_loss_yuan": 542.64
+        "opportunity_loss_yuan": 952.0
       }
     ]
   },
@@ -5284,7 +5284,7 @@
         "top_app": "微信",
         "top_app_hours": 4.43,
         "excess_hours": 9.08,
-        "opportunity_loss_yuan": 517.56
+        "opportunity_loss_yuan": 908.0
       },
       {
         "year": "2026",
@@ -5298,7 +5298,7 @@
         "top_app": "微信",
         "top_app_hours": 5.87,
         "excess_hours": 5.72,
-        "opportunity_loss_yuan": 326.04
+        "opportunity_loss_yuan": 572.0
       }
     ]
   },
@@ -5317,7 +5317,7 @@
         "top_app": "微信",
         "top_app_hours": 3.18,
         "excess_hours": 10.71,
-        "opportunity_loss_yuan": 610.47
+        "opportunity_loss_yuan": 1071.0
       },
       {
         "year": "2026",
@@ -5331,7 +5331,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 6.82,
         "excess_hours": 15.68,
-        "opportunity_loss_yuan": 893.76
+        "opportunity_loss_yuan": 1568.0
       }
     ]
   },
@@ -5350,7 +5350,7 @@
         "top_app": "微信",
         "top_app_hours": 5.17,
         "excess_hours": 9.39,
-        "opportunity_loss_yuan": 535.23
+        "opportunity_loss_yuan": 939.0
       },
       {
         "year": "2026",
@@ -5364,7 +5364,7 @@
         "top_app": "微信",
         "top_app_hours": 4.07,
         "excess_hours": 11.79,
-        "opportunity_loss_yuan": 672.03
+        "opportunity_loss_yuan": 1179.0
       }
     ]
   },
@@ -5383,7 +5383,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.69,
         "excess_hours": 12.3,
-        "opportunity_loss_yuan": 701.1
+        "opportunity_loss_yuan": 1230.0
       },
       {
         "year": "2026",
@@ -5397,7 +5397,7 @@
         "top_app": "微信",
         "top_app_hours": 3.71,
         "excess_hours": 4.77,
-        "opportunity_loss_yuan": 271.89
+        "opportunity_loss_yuan": 477.0
       }
     ]
   },
@@ -5416,7 +5416,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.98,
         "excess_hours": 6.61,
-        "opportunity_loss_yuan": 376.77
+        "opportunity_loss_yuan": 661.0
       },
       {
         "year": "2026",
@@ -5430,7 +5430,7 @@
         "top_app": "微信",
         "top_app_hours": 3.05,
         "excess_hours": 5.45,
-        "opportunity_loss_yuan": 310.65
+        "opportunity_loss_yuan": 545.0
       }
     ]
   },
@@ -5449,7 +5449,7 @@
         "top_app": "微信",
         "top_app_hours": 4.63,
         "excess_hours": 8.65,
-        "opportunity_loss_yuan": 493.05
+        "opportunity_loss_yuan": 865.0
       },
       {
         "year": "2026",
@@ -5463,7 +5463,7 @@
         "top_app": "微信",
         "top_app_hours": 3.81,
         "excess_hours": 3.53,
-        "opportunity_loss_yuan": 201.21
+        "opportunity_loss_yuan": 353.0
       }
     ]
   },
@@ -5482,7 +5482,7 @@
         "top_app": "微信",
         "top_app_hours": 4.82,
         "excess_hours": 9.65,
-        "opportunity_loss_yuan": 550.05
+        "opportunity_loss_yuan": 965.0
       },
       {
         "year": "2026",
@@ -5496,7 +5496,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 4.61,
         "excess_hours": 7.07,
-        "opportunity_loss_yuan": 402.99
+        "opportunity_loss_yuan": 707.0
       }
     ]
   },
@@ -5515,7 +5515,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.15,
         "excess_hours": 9.74,
-        "opportunity_loss_yuan": 555.18
+        "opportunity_loss_yuan": 974.0
       },
       {
         "year": "2026",
@@ -5529,7 +5529,7 @@
         "top_app": "微信",
         "top_app_hours": 2.54,
         "excess_hours": 3.93,
-        "opportunity_loss_yuan": 224.01
+        "opportunity_loss_yuan": 393.0
       }
     ]
   },
@@ -5548,7 +5548,7 @@
         "top_app": "微信",
         "top_app_hours": 5.0,
         "excess_hours": 12.54,
-        "opportunity_loss_yuan": 714.78
+        "opportunity_loss_yuan": 1254.0
       },
       {
         "year": "2026",
@@ -5562,7 +5562,7 @@
         "top_app": "微信",
         "top_app_hours": 1.6,
         "excess_hours": 0.76,
-        "opportunity_loss_yuan": 43.32
+        "opportunity_loss_yuan": 76.0
       }
     ]
   },
@@ -5581,7 +5581,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.75,
         "excess_hours": 12.52,
-        "opportunity_loss_yuan": 713.64
+        "opportunity_loss_yuan": 1252.0
       },
       {
         "year": "2026",
@@ -5595,7 +5595,7 @@
         "top_app": "微信",
         "top_app_hours": 5.55,
         "excess_hours": 7.63,
-        "opportunity_loss_yuan": 434.91
+        "opportunity_loss_yuan": 763.0
       }
     ]
   },
@@ -5614,7 +5614,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.74,
         "excess_hours": 6.08,
-        "opportunity_loss_yuan": 346.56
+        "opportunity_loss_yuan": 608.0
       },
       {
         "year": "2026",
@@ -5628,7 +5628,7 @@
         "top_app": "微信",
         "top_app_hours": 8.46,
         "excess_hours": 12.18,
-        "opportunity_loss_yuan": 694.26
+        "opportunity_loss_yuan": 1218.0
       }
     ]
   },
@@ -5647,7 +5647,7 @@
         "top_app": "微信",
         "top_app_hours": 3.38,
         "excess_hours": 7.83,
-        "opportunity_loss_yuan": 446.31
+        "opportunity_loss_yuan": 783.0
       },
       {
         "year": "2026",
@@ -5661,7 +5661,7 @@
         "top_app": "微信",
         "top_app_hours": 3.28,
         "excess_hours": 6.64,
-        "opportunity_loss_yuan": 378.48
+        "opportunity_loss_yuan": 664.0
       }
     ]
   },
@@ -5680,7 +5680,7 @@
         "top_app": "微信",
         "top_app_hours": 5.47,
         "excess_hours": 9.43,
-        "opportunity_loss_yuan": 537.51
+        "opportunity_loss_yuan": 943.0
       },
       {
         "year": "2026",
@@ -5694,7 +5694,7 @@
         "top_app": "微信",
         "top_app_hours": 4.17,
         "excess_hours": 6.96,
-        "opportunity_loss_yuan": 396.72
+        "opportunity_loss_yuan": 696.0
       }
     ]
   },
@@ -5713,7 +5713,7 @@
         "top_app": "微信",
         "top_app_hours": 6.7,
         "excess_hours": 12.23,
-        "opportunity_loss_yuan": 697.11
+        "opportunity_loss_yuan": 1223.0
       },
       {
         "year": "2026",
@@ -5727,7 +5727,7 @@
         "top_app": "微信",
         "top_app_hours": 4.97,
         "excess_hours": 7.63,
-        "opportunity_loss_yuan": 434.91
+        "opportunity_loss_yuan": 763.0
       }
     ]
   },
@@ -5746,7 +5746,7 @@
         "top_app": "微信",
         "top_app_hours": 3.02,
         "excess_hours": 10.18,
-        "opportunity_loss_yuan": 580.26
+        "opportunity_loss_yuan": 1018.0
       },
       {
         "year": "2026",
@@ -5760,7 +5760,7 @@
         "top_app": "微信",
         "top_app_hours": 5.78,
         "excess_hours": 13.77,
-        "opportunity_loss_yuan": 784.89
+        "opportunity_loss_yuan": 1377.0
       }
     ]
   },
@@ -5779,7 +5779,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.91,
         "excess_hours": 7.25,
-        "opportunity_loss_yuan": 413.25
+        "opportunity_loss_yuan": 725.0
       },
       {
         "year": "2026",
@@ -5793,7 +5793,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 5.72,
         "excess_hours": 10.65,
-        "opportunity_loss_yuan": 607.05
+        "opportunity_loss_yuan": 1065.0
       }
     ]
   },
@@ -5812,7 +5812,7 @@
         "top_app": "微信",
         "top_app_hours": 3.08,
         "excess_hours": 9.32,
-        "opportunity_loss_yuan": 531.24
+        "opportunity_loss_yuan": 932.0
       },
       {
         "year": "2026",
@@ -5826,7 +5826,7 @@
         "top_app": "微信",
         "top_app_hours": 4.05,
         "excess_hours": 5.13,
-        "opportunity_loss_yuan": 292.41
+        "opportunity_loss_yuan": 513.0
       }
     ]
   },
@@ -5845,7 +5845,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.08,
         "excess_hours": 9.81,
-        "opportunity_loss_yuan": 559.17
+        "opportunity_loss_yuan": 981.0
       },
       {
         "year": "2026",
@@ -5859,7 +5859,7 @@
         "top_app": "微信",
         "top_app_hours": 5.39,
         "excess_hours": 9.01,
-        "opportunity_loss_yuan": 513.57
+        "opportunity_loss_yuan": 901.0
       }
     ]
   },
@@ -5878,7 +5878,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.44,
         "excess_hours": 8.98,
-        "opportunity_loss_yuan": 511.86
+        "opportunity_loss_yuan": 898.0
       },
       {
         "year": "2026",
@@ -5892,7 +5892,7 @@
         "top_app": "微信",
         "top_app_hours": 7.36,
         "excess_hours": 9.0,
-        "opportunity_loss_yuan": 513.0
+        "opportunity_loss_yuan": 900.0
       }
     ]
   },
@@ -5911,7 +5911,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.46,
         "excess_hours": 11.33,
-        "opportunity_loss_yuan": 645.81
+        "opportunity_loss_yuan": 1133.0
       },
       {
         "year": "2026",
@@ -5925,7 +5925,7 @@
         "top_app": "微信",
         "top_app_hours": 3.76,
         "excess_hours": 8.78,
-        "opportunity_loss_yuan": 500.46
+        "opportunity_loss_yuan": 878.0
       }
     ]
   },
@@ -5944,7 +5944,7 @@
         "top_app": "微信",
         "top_app_hours": 2.96,
         "excess_hours": 9.95,
-        "opportunity_loss_yuan": 567.15
+        "opportunity_loss_yuan": 995.0
       },
       {
         "year": "2026",
@@ -5958,7 +5958,7 @@
         "top_app": "微信",
         "top_app_hours": 6.66,
         "excess_hours": 10.13,
-        "opportunity_loss_yuan": 577.41
+        "opportunity_loss_yuan": 1013.0
       }
     ]
   },
@@ -5977,7 +5977,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.77,
         "excess_hours": 10.01,
-        "opportunity_loss_yuan": 570.57
+        "opportunity_loss_yuan": 1001.0
       },
       {
         "year": "2026",
@@ -5991,7 +5991,7 @@
         "top_app": "微信",
         "top_app_hours": 4.6,
         "excess_hours": 8.56,
-        "opportunity_loss_yuan": 487.92
+        "opportunity_loss_yuan": 856.0
       }
     ]
   },
@@ -6010,7 +6010,7 @@
         "top_app": "微信",
         "top_app_hours": 2.3,
         "excess_hours": 7.45,
-        "opportunity_loss_yuan": 424.65
+        "opportunity_loss_yuan": 745.0
       },
       {
         "year": "2026",
@@ -6024,7 +6024,7 @@
         "top_app": "微信",
         "top_app_hours": 9.93,
         "excess_hours": 12.09,
-        "opportunity_loss_yuan": 689.13
+        "opportunity_loss_yuan": 1209.0
       }
     ]
   },
@@ -6043,7 +6043,7 @@
         "top_app": "微信",
         "top_app_hours": 4.78,
         "excess_hours": 9.57,
-        "opportunity_loss_yuan": 545.49
+        "opportunity_loss_yuan": 957.0
       },
       {
         "year": "2026",
@@ -6057,7 +6057,7 @@
         "top_app": "微信",
         "top_app_hours": 7.72,
         "excess_hours": 12.18,
-        "opportunity_loss_yuan": 694.26
+        "opportunity_loss_yuan": 1218.0
       }
     ]
   },
@@ -6076,7 +6076,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.89,
         "excess_hours": 8.62,
-        "opportunity_loss_yuan": 491.34
+        "opportunity_loss_yuan": 862.0
       },
       {
         "year": "2026",
@@ -6090,7 +6090,7 @@
         "top_app": "微信",
         "top_app_hours": 6.62,
         "excess_hours": 9.47,
-        "opportunity_loss_yuan": 539.79
+        "opportunity_loss_yuan": 947.0
       }
     ]
   },
@@ -6109,7 +6109,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.73,
         "excess_hours": 12.58,
-        "opportunity_loss_yuan": 717.06
+        "opportunity_loss_yuan": 1258.0
       },
       {
         "year": "2026",
@@ -6123,7 +6123,7 @@
         "top_app": "微信",
         "top_app_hours": 4.45,
         "excess_hours": 9.14,
-        "opportunity_loss_yuan": 520.98
+        "opportunity_loss_yuan": 914.0
       }
     ]
   },
@@ -6142,7 +6142,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.69,
         "excess_hours": 8.8,
-        "opportunity_loss_yuan": 501.6
+        "opportunity_loss_yuan": 880.0
       },
       {
         "year": "2026",
@@ -6156,7 +6156,7 @@
         "top_app": "微信",
         "top_app_hours": 5.49,
         "excess_hours": 7.8,
-        "opportunity_loss_yuan": 444.6
+        "opportunity_loss_yuan": 780.0
       }
     ]
   },
@@ -6175,7 +6175,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.05,
         "excess_hours": 6.97,
-        "opportunity_loss_yuan": 397.29
+        "opportunity_loss_yuan": 697.0
       },
       {
         "year": "2026",
@@ -6189,7 +6189,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 5.9,
         "excess_hours": 13.21,
-        "opportunity_loss_yuan": 752.97
+        "opportunity_loss_yuan": 1321.0
       }
     ]
   },
@@ -6208,7 +6208,7 @@
         "top_app": "微信",
         "top_app_hours": 7.62,
         "excess_hours": 12.04,
-        "opportunity_loss_yuan": 686.28
+        "opportunity_loss_yuan": 1204.0
       },
       {
         "year": "2026",
@@ -6222,7 +6222,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 5.89,
         "excess_hours": 15.28,
-        "opportunity_loss_yuan": 870.96
+        "opportunity_loss_yuan": 1528.0
       }
     ]
   },
@@ -6241,7 +6241,7 @@
         "top_app": "微信",
         "top_app_hours": 5.26,
         "excess_hours": 11.6,
-        "opportunity_loss_yuan": 661.2
+        "opportunity_loss_yuan": 1160.0
       },
       {
         "year": "2026",
@@ -6255,7 +6255,7 @@
         "top_app": "微信",
         "top_app_hours": 6.63,
         "excess_hours": 9.99,
-        "opportunity_loss_yuan": 569.43
+        "opportunity_loss_yuan": 999.0
       }
     ]
   },
@@ -6274,7 +6274,7 @@
         "top_app": "微信",
         "top_app_hours": 4.06,
         "excess_hours": 10.16,
-        "opportunity_loss_yuan": 579.12
+        "opportunity_loss_yuan": 1016.0
       },
       {
         "year": "2026",
@@ -6288,7 +6288,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.16,
         "excess_hours": 5.5,
-        "opportunity_loss_yuan": 313.5
+        "opportunity_loss_yuan": 550.0
       }
     ]
   },
@@ -6307,7 +6307,7 @@
         "top_app": "微信",
         "top_app_hours": 3.59,
         "excess_hours": 8.81,
-        "opportunity_loss_yuan": 502.17
+        "opportunity_loss_yuan": 881.0
       },
       {
         "year": "2026",
@@ -6321,7 +6321,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 4.82,
         "excess_hours": 10.05,
-        "opportunity_loss_yuan": 572.85
+        "opportunity_loss_yuan": 1005.0
       }
     ]
   },
@@ -6340,7 +6340,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.69,
         "excess_hours": 9.57,
-        "opportunity_loss_yuan": 545.49
+        "opportunity_loss_yuan": 957.0
       },
       {
         "year": "2026",
@@ -6354,7 +6354,7 @@
         "top_app": "微信",
         "top_app_hours": 4.12,
         "excess_hours": 8.11,
-        "opportunity_loss_yuan": 462.27
+        "opportunity_loss_yuan": 811.0
       }
     ]
   },
@@ -6373,7 +6373,7 @@
         "top_app": "微信",
         "top_app_hours": 5.5,
         "excess_hours": 8.62,
-        "opportunity_loss_yuan": 491.34
+        "opportunity_loss_yuan": 862.0
       },
       {
         "year": "2026",
@@ -6387,7 +6387,7 @@
         "top_app": "微信",
         "top_app_hours": 2.79,
         "excess_hours": 6.26,
-        "opportunity_loss_yuan": 356.82
+        "opportunity_loss_yuan": 626.0
       }
     ]
   },
@@ -6406,7 +6406,7 @@
         "top_app": "微信",
         "top_app_hours": 4.53,
         "excess_hours": 10.62,
-        "opportunity_loss_yuan": 605.34
+        "opportunity_loss_yuan": 1062.0
       },
       {
         "year": "2026",
@@ -6420,7 +6420,7 @@
         "top_app": "微信",
         "top_app_hours": 3.6,
         "excess_hours": 7.3,
-        "opportunity_loss_yuan": 416.1
+        "opportunity_loss_yuan": 730.0
       }
     ]
   },
@@ -6439,7 +6439,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.07,
         "excess_hours": 10.42,
-        "opportunity_loss_yuan": 593.94
+        "opportunity_loss_yuan": 1042.0
       },
       {
         "year": "2026",
@@ -6453,7 +6453,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.54,
         "excess_hours": 9.04,
-        "opportunity_loss_yuan": 515.28
+        "opportunity_loss_yuan": 904.0
       }
     ]
   },
@@ -6472,7 +6472,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.86,
         "excess_hours": 8.4,
-        "opportunity_loss_yuan": 478.8
+        "opportunity_loss_yuan": 840.0
       },
       {
         "year": "2026",
@@ -6486,7 +6486,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.78,
         "excess_hours": 8.69,
-        "opportunity_loss_yuan": 495.33
+        "opportunity_loss_yuan": 869.0
       }
     ]
   },
@@ -6505,7 +6505,7 @@
         "top_app": "微信",
         "top_app_hours": 4.13,
         "excess_hours": 9.02,
-        "opportunity_loss_yuan": 514.14
+        "opportunity_loss_yuan": 902.0
       },
       {
         "year": "2026",
@@ -6519,7 +6519,7 @@
         "top_app": "无影云电脑",
         "top_app_hours": 7.87,
         "excess_hours": 15.43,
-        "opportunity_loss_yuan": 879.51
+        "opportunity_loss_yuan": 1543.0
       }
     ]
   },
@@ -6538,7 +6538,7 @@
         "top_app": "微信",
         "top_app_hours": 4.59,
         "excess_hours": 8.07,
-        "opportunity_loss_yuan": 459.99
+        "opportunity_loss_yuan": 807.0
       },
       {
         "year": "2026",
@@ -6552,7 +6552,7 @@
         "top_app": "微信",
         "top_app_hours": 8.69,
         "excess_hours": 13.03,
-        "opportunity_loss_yuan": 742.71
+        "opportunity_loss_yuan": 1303.0
       }
     ]
   },
@@ -6571,7 +6571,7 @@
         "top_app": "微信",
         "top_app_hours": 4.3,
         "excess_hours": 9.11,
-        "opportunity_loss_yuan": 519.27
+        "opportunity_loss_yuan": 911.0
       },
       {
         "year": "2026",
@@ -6585,7 +6585,7 @@
         "top_app": "微信",
         "top_app_hours": 5.6,
         "excess_hours": 11.2,
-        "opportunity_loss_yuan": 638.4
+        "opportunity_loss_yuan": 1120.0
       }
     ]
   },
@@ -6604,7 +6604,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.75,
         "excess_hours": 10.43,
-        "opportunity_loss_yuan": 594.51
+        "opportunity_loss_yuan": 1043.0
       },
       {
         "year": "2026",
@@ -6618,7 +6618,7 @@
         "top_app": "微信",
         "top_app_hours": 5.67,
         "excess_hours": 8.48,
-        "opportunity_loss_yuan": 483.36
+        "opportunity_loss_yuan": 848.0
       }
     ]
   },
@@ -6637,7 +6637,7 @@
         "top_app": "微信",
         "top_app_hours": 3.64,
         "excess_hours": 9.0,
-        "opportunity_loss_yuan": 513.0
+        "opportunity_loss_yuan": 900.0
       },
       {
         "year": "2026",
@@ -6651,7 +6651,7 @@
         "top_app": "微信",
         "top_app_hours": 6.27,
         "excess_hours": 14.76,
-        "opportunity_loss_yuan": 841.32
+        "opportunity_loss_yuan": 1476.0
       }
     ]
   },
@@ -6670,7 +6670,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.11,
         "excess_hours": 9.98,
-        "opportunity_loss_yuan": 568.86
+        "opportunity_loss_yuan": 998.0
       },
       {
         "year": "2026",
@@ -6684,7 +6684,7 @@
         "top_app": "微信",
         "top_app_hours": 6.34,
         "excess_hours": 16.27,
-        "opportunity_loss_yuan": 927.39
+        "opportunity_loss_yuan": 1627.0
       }
     ]
   },
@@ -6703,7 +6703,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.21,
         "excess_hours": 14.71,
-        "opportunity_loss_yuan": 838.47
+        "opportunity_loss_yuan": 1471.0
       },
       {
         "year": "2026",
@@ -6717,7 +6717,7 @@
         "top_app": "微信",
         "top_app_hours": 5.94,
         "excess_hours": 8.66,
-        "opportunity_loss_yuan": 493.62
+        "opportunity_loss_yuan": 866.0
       }
     ]
   },
@@ -6736,7 +6736,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.84,
         "excess_hours": 9.78,
-        "opportunity_loss_yuan": 557.46
+        "opportunity_loss_yuan": 978.0
       },
       {
         "year": "2026",
@@ -6750,7 +6750,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 6.05,
         "excess_hours": 13.55,
-        "opportunity_loss_yuan": 772.35
+        "opportunity_loss_yuan": 1355.0
       }
     ]
   },
@@ -6769,7 +6769,7 @@
         "top_app": "微信",
         "top_app_hours": 4.2,
         "excess_hours": 10.49,
-        "opportunity_loss_yuan": 597.93
+        "opportunity_loss_yuan": 1049.0
       },
       {
         "year": "2026",
@@ -6783,7 +6783,7 @@
         "top_app": "微信",
         "top_app_hours": 8.87,
         "excess_hours": 12.87,
-        "opportunity_loss_yuan": 733.59
+        "opportunity_loss_yuan": 1287.0
       }
     ]
   },
@@ -6802,7 +6802,7 @@
         "top_app": "微信",
         "top_app_hours": 3.47,
         "excess_hours": 8.02,
-        "opportunity_loss_yuan": 457.14
+        "opportunity_loss_yuan": 802.0
       },
       {
         "year": "2026",
@@ -6816,7 +6816,7 @@
         "top_app": "微信",
         "top_app_hours": 4.93,
         "excess_hours": 9.23,
-        "opportunity_loss_yuan": 526.11
+        "opportunity_loss_yuan": 923.0
       }
     ]
   },
@@ -6835,7 +6835,7 @@
         "top_app": "微信",
         "top_app_hours": 5.54,
         "excess_hours": 10.62,
-        "opportunity_loss_yuan": 605.34
+        "opportunity_loss_yuan": 1062.0
       },
       {
         "year": "2026",
@@ -6849,7 +6849,7 @@
         "top_app": "微信",
         "top_app_hours": 3.02,
         "excess_hours": 8.5,
-        "opportunity_loss_yuan": 484.5
+        "opportunity_loss_yuan": 850.0
       }
     ]
   },
@@ -6868,7 +6868,7 @@
         "top_app": "微信",
         "top_app_hours": 3.65,
         "excess_hours": 9.59,
-        "opportunity_loss_yuan": 546.63
+        "opportunity_loss_yuan": 959.0
       },
       {
         "year": "2026",
@@ -6882,7 +6882,7 @@
         "top_app": "微信",
         "top_app_hours": 3.16,
         "excess_hours": 7.03,
-        "opportunity_loss_yuan": 400.71
+        "opportunity_loss_yuan": 703.0
       }
     ]
   },
@@ -6901,7 +6901,7 @@
         "top_app": "微信",
         "top_app_hours": 3.36,
         "excess_hours": 7.96,
-        "opportunity_loss_yuan": 453.72
+        "opportunity_loss_yuan": 796.0
       },
       {
         "year": "2026",
@@ -6915,7 +6915,7 @@
         "top_app": "微信",
         "top_app_hours": 6.38,
         "excess_hours": 10.44,
-        "opportunity_loss_yuan": 595.08
+        "opportunity_loss_yuan": 1044.0
       }
     ]
   },
@@ -6934,7 +6934,7 @@
         "top_app": "小红书",
         "top_app_hours": 3.94,
         "excess_hours": 6.09,
-        "opportunity_loss_yuan": 347.13
+        "opportunity_loss_yuan": 609.0
       },
       {
         "year": "2026",
@@ -6948,7 +6948,7 @@
         "top_app": "微信",
         "top_app_hours": 6.25,
         "excess_hours": 9.9,
-        "opportunity_loss_yuan": 564.3
+        "opportunity_loss_yuan": 990.0
       }
     ]
   },
@@ -6967,7 +6967,7 @@
         "top_app": "微信",
         "top_app_hours": 1.33,
         "excess_hours": 2.55,
-        "opportunity_loss_yuan": 145.35
+        "opportunity_loss_yuan": 255.0
       },
       {
         "year": "2026",
@@ -6981,7 +6981,7 @@
         "top_app": "微信",
         "top_app_hours": 5.72,
         "excess_hours": 6.46,
-        "opportunity_loss_yuan": 368.22
+        "opportunity_loss_yuan": 646.0
       }
     ]
   },
@@ -7000,7 +7000,7 @@
         "top_app": "优酷视频",
         "top_app_hours": 1.89,
         "excess_hours": 4.15,
-        "opportunity_loss_yuan": 236.55
+        "opportunity_loss_yuan": 415.0
       },
       {
         "year": "2026",
@@ -7014,7 +7014,7 @@
         "top_app": "微信",
         "top_app_hours": 3.83,
         "excess_hours": 6.88,
-        "opportunity_loss_yuan": 392.16
+        "opportunity_loss_yuan": 688.0
       }
     ]
   },
@@ -7033,7 +7033,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 3.29,
         "excess_hours": 5.57,
-        "opportunity_loss_yuan": 317.49
+        "opportunity_loss_yuan": 557.0
       },
       {
         "year": "2026",
@@ -7047,7 +7047,7 @@
         "top_app": "微信",
         "top_app_hours": 4.49,
         "excess_hours": 9.13,
-        "opportunity_loss_yuan": 520.41
+        "opportunity_loss_yuan": 913.0
       }
     ]
   },
@@ -7066,7 +7066,7 @@
         "top_app": "微信",
         "top_app_hours": 4.43,
         "excess_hours": 8.34,
-        "opportunity_loss_yuan": 475.38
+        "opportunity_loss_yuan": 834.0
       },
       {
         "year": "2026",
@@ -7080,7 +7080,7 @@
         "top_app": "微信",
         "top_app_hours": 4.23,
         "excess_hours": 9.2,
-        "opportunity_loss_yuan": 524.4
+        "opportunity_loss_yuan": 920.0
       }
     ]
   },
@@ -7099,7 +7099,7 @@
         "top_app": "微信",
         "top_app_hours": 2.36,
         "excess_hours": 7.64,
-        "opportunity_loss_yuan": 435.48
+        "opportunity_loss_yuan": 764.0
       },
       {
         "year": "2026",
@@ -7113,7 +7113,7 @@
         "top_app": "微信",
         "top_app_hours": 3.99,
         "excess_hours": 10.73,
-        "opportunity_loss_yuan": 611.61
+        "opportunity_loss_yuan": 1073.0
       }
     ]
   },
@@ -7132,7 +7132,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.12,
         "excess_hours": 7.66,
-        "opportunity_loss_yuan": 436.62
+        "opportunity_loss_yuan": 766.0
       },
       {
         "year": "2026",
@@ -7146,7 +7146,7 @@
         "top_app": "微信",
         "top_app_hours": 6.48,
         "excess_hours": 10.94,
-        "opportunity_loss_yuan": 623.58
+        "opportunity_loss_yuan": 1094.0
       }
     ]
   },
@@ -7165,7 +7165,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.27,
         "excess_hours": 8.96,
-        "opportunity_loss_yuan": 510.72
+        "opportunity_loss_yuan": 896.0
       },
       {
         "year": "2026",
@@ -7179,7 +7179,7 @@
         "top_app": "微信",
         "top_app_hours": 5.72,
         "excess_hours": 8.99,
-        "opportunity_loss_yuan": 512.43
+        "opportunity_loss_yuan": 899.0
       }
     ]
   },
@@ -7198,7 +7198,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.0,
         "excess_hours": 9.39,
-        "opportunity_loss_yuan": 535.23
+        "opportunity_loss_yuan": 939.0
       },
       {
         "year": "2026",
@@ -7212,7 +7212,7 @@
         "top_app": "微信",
         "top_app_hours": 3.36,
         "excess_hours": 6.52,
-        "opportunity_loss_yuan": 371.64
+        "opportunity_loss_yuan": 652.0
       }
     ]
   },
@@ -7231,7 +7231,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.89,
         "excess_hours": 7.96,
-        "opportunity_loss_yuan": 453.72
+        "opportunity_loss_yuan": 796.0
       },
       {
         "year": "2026",
@@ -7245,7 +7245,7 @@
         "top_app": "微信",
         "top_app_hours": 3.77,
         "excess_hours": 6.24,
-        "opportunity_loss_yuan": 355.68
+        "opportunity_loss_yuan": 624.0
       }
     ]
   },
@@ -7264,7 +7264,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.25,
         "excess_hours": 10.23,
-        "opportunity_loss_yuan": 583.11
+        "opportunity_loss_yuan": 1023.0
       },
       {
         "year": "2026",
@@ -7278,7 +7278,7 @@
         "top_app": "微信",
         "top_app_hours": 8.49,
         "excess_hours": 10.21,
-        "opportunity_loss_yuan": 581.97
+        "opportunity_loss_yuan": 1021.0
       }
     ]
   },
@@ -7297,7 +7297,7 @@
         "top_app": "微信",
         "top_app_hours": 7.71,
         "excess_hours": 16.3,
-        "opportunity_loss_yuan": 929.1
+        "opportunity_loss_yuan": 1630.0
       },
       {
         "year": "2026",
@@ -7311,7 +7311,7 @@
         "top_app": "微信",
         "top_app_hours": 6.61,
         "excess_hours": 10.38,
-        "opportunity_loss_yuan": 591.66
+        "opportunity_loss_yuan": 1038.0
       }
     ]
   },
@@ -7330,7 +7330,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.69,
         "excess_hours": 17.56,
-        "opportunity_loss_yuan": 1000.92
+        "opportunity_loss_yuan": 1756.0
       },
       {
         "year": "2026",
@@ -7344,7 +7344,7 @@
         "top_app": "微信",
         "top_app_hours": 4.83,
         "excess_hours": 10.85,
-        "opportunity_loss_yuan": 618.45
+        "opportunity_loss_yuan": 1085.0
       }
     ]
   },
@@ -7363,7 +7363,7 @@
         "top_app": "微信",
         "top_app_hours": 2.89,
         "excess_hours": 10.17,
-        "opportunity_loss_yuan": 579.69
+        "opportunity_loss_yuan": 1017.0
       },
       {
         "year": "2026",
@@ -7377,7 +7377,7 @@
         "top_app": "微信",
         "top_app_hours": 6.03,
         "excess_hours": 9.76,
-        "opportunity_loss_yuan": 556.32
+        "opportunity_loss_yuan": 976.0
       }
     ]
   },
@@ -7396,7 +7396,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.03,
         "excess_hours": 12.55,
-        "opportunity_loss_yuan": 715.35
+        "opportunity_loss_yuan": 1255.0
       },
       {
         "year": "2026",
@@ -7410,7 +7410,7 @@
         "top_app": "微信",
         "top_app_hours": 4.73,
         "excess_hours": 13.32,
-        "opportunity_loss_yuan": 759.24
+        "opportunity_loss_yuan": 1332.0
       }
     ]
   },
@@ -7429,7 +7429,7 @@
         "top_app": "微信",
         "top_app_hours": 7.82,
         "excess_hours": 12.57,
-        "opportunity_loss_yuan": 716.49
+        "opportunity_loss_yuan": 1257.0
       },
       {
         "year": "2026",
@@ -7443,7 +7443,7 @@
         "top_app": "微信",
         "top_app_hours": 2.8,
         "excess_hours": 6.61,
-        "opportunity_loss_yuan": 376.77
+        "opportunity_loss_yuan": 661.0
       }
     ]
   },
@@ -7462,7 +7462,7 @@
         "top_app": "微信",
         "top_app_hours": 5.41,
         "excess_hours": 7.7,
-        "opportunity_loss_yuan": 438.9
+        "opportunity_loss_yuan": 770.0
       },
       {
         "year": "2026",
@@ -7476,7 +7476,7 @@
         "top_app": "微信",
         "top_app_hours": 3.91,
         "excess_hours": 12.13,
-        "opportunity_loss_yuan": 691.41
+        "opportunity_loss_yuan": 1213.0
       }
     ]
   },
@@ -7495,7 +7495,7 @@
         "top_app": "微信",
         "top_app_hours": 13.44,
         "excess_hours": 15.71,
-        "opportunity_loss_yuan": 895.47
+        "opportunity_loss_yuan": 1571.0
       },
       {
         "year": "2026",
@@ -7509,7 +7509,7 @@
         "top_app": "微信",
         "top_app_hours": 6.85,
         "excess_hours": 8.67,
-        "opportunity_loss_yuan": 494.19
+        "opportunity_loss_yuan": 867.0
       }
     ]
   },
@@ -7528,7 +7528,7 @@
         "top_app": "微信",
         "top_app_hours": 5.96,
         "excess_hours": 7.52,
-        "opportunity_loss_yuan": 428.64
+        "opportunity_loss_yuan": 752.0
       },
       {
         "year": "2026",
@@ -7542,7 +7542,7 @@
         "top_app": "微信",
         "top_app_hours": 4.78,
         "excess_hours": 9.72,
-        "opportunity_loss_yuan": 554.04
+        "opportunity_loss_yuan": 972.0
       }
     ]
   },
@@ -7561,7 +7561,7 @@
         "top_app": "微信",
         "top_app_hours": 6.7,
         "excess_hours": 14.33,
-        "opportunity_loss_yuan": 816.81
+        "opportunity_loss_yuan": 1433.0
       },
       {
         "year": "2026",
@@ -7575,7 +7575,7 @@
         "top_app": "微信",
         "top_app_hours": 3.12,
         "excess_hours": 7.92,
-        "opportunity_loss_yuan": 451.44
+        "opportunity_loss_yuan": 792.0
       }
     ]
   },
@@ -7594,7 +7594,7 @@
         "top_app": "微信",
         "top_app_hours": 4.66,
         "excess_hours": 11.28,
-        "opportunity_loss_yuan": 642.96
+        "opportunity_loss_yuan": 1128.0
       },
       {
         "year": "2026",
@@ -7608,7 +7608,7 @@
         "top_app": "微信",
         "top_app_hours": 4.06,
         "excess_hours": 8.81,
-        "opportunity_loss_yuan": 502.17
+        "opportunity_loss_yuan": 881.0
       }
     ]
   },
@@ -7627,7 +7627,7 @@
         "top_app": "微信",
         "top_app_hours": 5.24,
         "excess_hours": 9.54,
-        "opportunity_loss_yuan": 543.78
+        "opportunity_loss_yuan": 954.0
       },
       {
         "year": "2026",
@@ -7641,7 +7641,7 @@
         "top_app": "微信",
         "top_app_hours": 7.12,
         "excess_hours": 12.25,
-        "opportunity_loss_yuan": 698.25
+        "opportunity_loss_yuan": 1225.0
       }
     ]
   },
@@ -7660,7 +7660,7 @@
         "top_app": "微信",
         "top_app_hours": 5.1,
         "excess_hours": 11.03,
-        "opportunity_loss_yuan": 628.71
+        "opportunity_loss_yuan": 1103.0
       },
       {
         "year": "2026",
@@ -7674,7 +7674,7 @@
         "top_app": "微信",
         "top_app_hours": 4.64,
         "excess_hours": 9.13,
-        "opportunity_loss_yuan": 520.41
+        "opportunity_loss_yuan": 913.0
       }
     ]
   },
@@ -7693,7 +7693,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.45,
         "excess_hours": 11.49,
-        "opportunity_loss_yuan": 654.93
+        "opportunity_loss_yuan": 1149.0
       },
       {
         "year": "2026",
@@ -7707,7 +7707,7 @@
         "top_app": "微信",
         "top_app_hours": 4.67,
         "excess_hours": 10.24,
-        "opportunity_loss_yuan": 583.68
+        "opportunity_loss_yuan": 1024.0
       }
     ]
   },
@@ -7726,7 +7726,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.88,
         "excess_hours": 11.47,
-        "opportunity_loss_yuan": 653.79
+        "opportunity_loss_yuan": 1147.0
       },
       {
         "year": "2026",
@@ -7740,7 +7740,7 @@
         "top_app": "微信",
         "top_app_hours": 4.86,
         "excess_hours": 9.66,
-        "opportunity_loss_yuan": 550.62
+        "opportunity_loss_yuan": 966.0
       }
     ]
   },
@@ -7759,7 +7759,7 @@
         "top_app": "微信",
         "top_app_hours": 3.14,
         "excess_hours": 5.36,
-        "opportunity_loss_yuan": 305.52
+        "opportunity_loss_yuan": 536.0
       },
       {
         "year": "2026",
@@ -7773,7 +7773,7 @@
         "top_app": "微信",
         "top_app_hours": 4.24,
         "excess_hours": 9.03,
-        "opportunity_loss_yuan": 514.71
+        "opportunity_loss_yuan": 903.0
       }
     ]
   },
@@ -7792,7 +7792,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.5,
         "excess_hours": 10.33,
-        "opportunity_loss_yuan": 588.81
+        "opportunity_loss_yuan": 1033.0
       },
       {
         "year": "2026",
@@ -7806,7 +7806,7 @@
         "top_app": "微信",
         "top_app_hours": 3.95,
         "excess_hours": 5.5,
-        "opportunity_loss_yuan": 313.5
+        "opportunity_loss_yuan": 550.0
       }
     ]
   },
@@ -7825,7 +7825,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.55,
         "excess_hours": 10.91,
-        "opportunity_loss_yuan": 621.87
+        "opportunity_loss_yuan": 1091.0
       },
       {
         "year": "2026",
@@ -7839,7 +7839,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 6.56,
         "excess_hours": 15.55,
-        "opportunity_loss_yuan": 886.35
+        "opportunity_loss_yuan": 1555.0
       }
     ]
   },
@@ -7858,7 +7858,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.09,
         "excess_hours": 10.07,
-        "opportunity_loss_yuan": 573.99
+        "opportunity_loss_yuan": 1007.0
       },
       {
         "year": "2026",
@@ -7872,7 +7872,7 @@
         "top_app": "微信",
         "top_app_hours": 9.77,
         "excess_hours": 18.25,
-        "opportunity_loss_yuan": 1040.25
+        "opportunity_loss_yuan": 1825.0
       }
     ]
   },
@@ -7891,7 +7891,7 @@
         "top_app": "微信",
         "top_app_hours": 3.72,
         "excess_hours": 6.86,
-        "opportunity_loss_yuan": 391.02
+        "opportunity_loss_yuan": 686.0
       },
       {
         "year": "2026",
@@ -7905,7 +7905,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.33,
         "excess_hours": 11.71,
-        "opportunity_loss_yuan": 667.47
+        "opportunity_loss_yuan": 1171.0
       }
     ]
   },
@@ -7924,7 +7924,7 @@
         "top_app": "微信",
         "top_app_hours": 5.19,
         "excess_hours": 5.73,
-        "opportunity_loss_yuan": 326.61
+        "opportunity_loss_yuan": 573.0
       },
       {
         "year": "2026",
@@ -7938,7 +7938,7 @@
         "top_app": "微信",
         "top_app_hours": 6.18,
         "excess_hours": 10.0,
-        "opportunity_loss_yuan": 570.0
+        "opportunity_loss_yuan": 1000.0
       }
     ]
   },
@@ -7957,7 +7957,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.27,
         "excess_hours": 9.76,
-        "opportunity_loss_yuan": 556.32
+        "opportunity_loss_yuan": 976.0
       },
       {
         "year": "2026",
@@ -7971,7 +7971,7 @@
         "top_app": "微信",
         "top_app_hours": 7.28,
         "excess_hours": 10.32,
-        "opportunity_loss_yuan": 588.24
+        "opportunity_loss_yuan": 1032.0
       }
     ]
   },
@@ -7990,7 +7990,7 @@
         "top_app": "微信",
         "top_app_hours": 8.55,
         "excess_hours": 10.61,
-        "opportunity_loss_yuan": 604.77
+        "opportunity_loss_yuan": 1061.0
       },
       {
         "year": "2026",
@@ -8004,7 +8004,7 @@
         "top_app": "微信",
         "top_app_hours": 6.53,
         "excess_hours": 16.28,
-        "opportunity_loss_yuan": 927.96
+        "opportunity_loss_yuan": 1628.0
       }
     ]
   },
@@ -8023,7 +8023,7 @@
         "top_app": "微信",
         "top_app_hours": 4.69,
         "excess_hours": 14.14,
-        "opportunity_loss_yuan": 805.98
+        "opportunity_loss_yuan": 1414.0
       },
       {
         "year": "2026",
@@ -8037,7 +8037,7 @@
         "top_app": "微信",
         "top_app_hours": 4.9,
         "excess_hours": 9.57,
-        "opportunity_loss_yuan": 545.49
+        "opportunity_loss_yuan": 957.0
       }
     ]
   },
@@ -8056,7 +8056,7 @@
         "top_app": "微信",
         "top_app_hours": 3.32,
         "excess_hours": 9.45,
-        "opportunity_loss_yuan": 538.65
+        "opportunity_loss_yuan": 945.0
       },
       {
         "year": "2026",
@@ -8070,7 +8070,7 @@
         "top_app": "微信",
         "top_app_hours": 4.48,
         "excess_hours": 10.7,
-        "opportunity_loss_yuan": 609.9
+        "opportunity_loss_yuan": 1070.0
       }
     ]
   },
@@ -8089,7 +8089,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.93,
         "excess_hours": 9.17,
-        "opportunity_loss_yuan": 522.69
+        "opportunity_loss_yuan": 917.0
       },
       {
         "year": "2026",
@@ -8103,7 +8103,7 @@
         "top_app": "微信",
         "top_app_hours": 5.98,
         "excess_hours": 8.79,
-        "opportunity_loss_yuan": 501.03
+        "opportunity_loss_yuan": 879.0
       }
     ]
   },
@@ -8122,7 +8122,7 @@
         "top_app": "微信",
         "top_app_hours": 5.44,
         "excess_hours": 9.21,
-        "opportunity_loss_yuan": 524.97
+        "opportunity_loss_yuan": 921.0
       },
       {
         "year": "2026",
@@ -8136,7 +8136,7 @@
         "top_app": "微信",
         "top_app_hours": 7.95,
         "excess_hours": 8.75,
-        "opportunity_loss_yuan": 498.75
+        "opportunity_loss_yuan": 875.0
       }
     ]
   },
@@ -8155,7 +8155,7 @@
         "top_app": "微信",
         "top_app_hours": 4.4,
         "excess_hours": 10.65,
-        "opportunity_loss_yuan": 607.05
+        "opportunity_loss_yuan": 1065.0
       },
       {
         "year": "2026",
@@ -8169,7 +8169,7 @@
         "top_app": "微信",
         "top_app_hours": 2.35,
         "excess_hours": 8.89,
-        "opportunity_loss_yuan": 506.73
+        "opportunity_loss_yuan": 889.0
       }
     ]
   },
@@ -8188,7 +8188,7 @@
         "top_app": "微信",
         "top_app_hours": 5.72,
         "excess_hours": 7.94,
-        "opportunity_loss_yuan": 452.58
+        "opportunity_loss_yuan": 794.0
       },
       {
         "year": "2026",
@@ -8202,7 +8202,7 @@
         "top_app": "微信",
         "top_app_hours": 5.33,
         "excess_hours": 8.36,
-        "opportunity_loss_yuan": 476.52
+        "opportunity_loss_yuan": 836.0
       }
     ]
   },
@@ -8221,7 +8221,7 @@
         "top_app": "微信",
         "top_app_hours": 5.88,
         "excess_hours": 9.8,
-        "opportunity_loss_yuan": 558.6
+        "opportunity_loss_yuan": 980.0
       },
       {
         "year": "2026",
@@ -8235,7 +8235,7 @@
         "top_app": "微信",
         "top_app_hours": 7.2,
         "excess_hours": 9.17,
-        "opportunity_loss_yuan": 522.69
+        "opportunity_loss_yuan": 917.0
       }
     ]
   },
@@ -8254,7 +8254,7 @@
         "top_app": "微信",
         "top_app_hours": 6.14,
         "excess_hours": 8.69,
-        "opportunity_loss_yuan": 495.33
+        "opportunity_loss_yuan": 869.0
       },
       {
         "year": "2026",
@@ -8268,7 +8268,7 @@
         "top_app": "微信",
         "top_app_hours": 4.26,
         "excess_hours": 8.39,
-        "opportunity_loss_yuan": 478.23
+        "opportunity_loss_yuan": 839.0
       }
     ]
   },
@@ -8287,7 +8287,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.74,
         "excess_hours": 13.19,
-        "opportunity_loss_yuan": 751.83
+        "opportunity_loss_yuan": 1319.0
       },
       {
         "year": "2026",
@@ -8301,7 +8301,7 @@
         "top_app": "微信",
         "top_app_hours": 3.59,
         "excess_hours": 4.89,
-        "opportunity_loss_yuan": 278.73
+        "opportunity_loss_yuan": 489.0
       }
     ]
   },
@@ -8320,7 +8320,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.42,
         "excess_hours": 7.71,
-        "opportunity_loss_yuan": 439.47
+        "opportunity_loss_yuan": 771.0
       },
       {
         "year": "2026",
@@ -8334,7 +8334,7 @@
         "top_app": "微信",
         "top_app_hours": 5.76,
         "excess_hours": 8.6,
-        "opportunity_loss_yuan": 490.2
+        "opportunity_loss_yuan": 860.0
       }
     ]
   },
@@ -8353,7 +8353,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.51,
         "excess_hours": 11.82,
-        "opportunity_loss_yuan": 673.74
+        "opportunity_loss_yuan": 1182.0
       },
       {
         "year": "2026",
@@ -8367,7 +8367,7 @@
         "top_app": "微信",
         "top_app_hours": 7.23,
         "excess_hours": 8.82,
-        "opportunity_loss_yuan": 502.74
+        "opportunity_loss_yuan": 882.0
       }
     ]
   },
@@ -8386,7 +8386,7 @@
         "top_app": "微信",
         "top_app_hours": 6.72,
         "excess_hours": 11.07,
-        "opportunity_loss_yuan": 630.99
+        "opportunity_loss_yuan": 1107.0
       },
       {
         "year": "2026",
@@ -8400,7 +8400,7 @@
         "top_app": "微信",
         "top_app_hours": 7.71,
         "excess_hours": 9.63,
-        "opportunity_loss_yuan": 548.91
+        "opportunity_loss_yuan": 963.0
       }
     ]
   },
@@ -8419,7 +8419,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.85,
         "excess_hours": 7.67,
-        "opportunity_loss_yuan": 437.19
+        "opportunity_loss_yuan": 767.0
       },
       {
         "year": "2026",
@@ -8433,7 +8433,7 @@
         "top_app": "微信",
         "top_app_hours": 8.15,
         "excess_hours": 11.58,
-        "opportunity_loss_yuan": 660.06
+        "opportunity_loss_yuan": 1158.0
       }
     ]
   },
@@ -8452,7 +8452,7 @@
         "top_app": "微信",
         "top_app_hours": 6.82,
         "excess_hours": 16.3,
-        "opportunity_loss_yuan": 929.1
+        "opportunity_loss_yuan": 1630.0
       },
       {
         "year": "2026",
@@ -8466,7 +8466,7 @@
         "top_app": "微信",
         "top_app_hours": 5.79,
         "excess_hours": 9.63,
-        "opportunity_loss_yuan": 548.91
+        "opportunity_loss_yuan": 963.0
       }
     ]
   },
@@ -8485,7 +8485,7 @@
         "top_app": "微信",
         "top_app_hours": 5.76,
         "excess_hours": 11.9,
-        "opportunity_loss_yuan": 678.3
+        "opportunity_loss_yuan": 1190.0
       },
       {
         "year": "2026",
@@ -8499,7 +8499,7 @@
         "top_app": "微信",
         "top_app_hours": 7.65,
         "excess_hours": 8.7,
-        "opportunity_loss_yuan": 495.9
+        "opportunity_loss_yuan": 870.0
       }
     ]
   },
@@ -8518,7 +8518,7 @@
         "top_app": "微信",
         "top_app_hours": 7.74,
         "excess_hours": 11.44,
-        "opportunity_loss_yuan": 652.08
+        "opportunity_loss_yuan": 1144.0
       },
       {
         "year": "2026",
@@ -8532,7 +8532,7 @@
         "top_app": "微信",
         "top_app_hours": 7.41,
         "excess_hours": 8.51,
-        "opportunity_loss_yuan": 485.07
+        "opportunity_loss_yuan": 851.0
       }
     ]
   },
@@ -8551,7 +8551,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.93,
         "excess_hours": 9.47,
-        "opportunity_loss_yuan": 539.79
+        "opportunity_loss_yuan": 947.0
       },
       {
         "year": "2026",
@@ -8565,7 +8565,7 @@
         "top_app": "微信",
         "top_app_hours": 6.7,
         "excess_hours": 8.86,
-        "opportunity_loss_yuan": 505.02
+        "opportunity_loss_yuan": 886.0
       }
     ]
   },
@@ -8584,7 +8584,7 @@
         "top_app": "微信",
         "top_app_hours": 5.52,
         "excess_hours": 12.48,
-        "opportunity_loss_yuan": 711.36
+        "opportunity_loss_yuan": 1248.0
       },
       {
         "year": "2026",
@@ -8598,7 +8598,7 @@
         "top_app": "微信",
         "top_app_hours": 6.33,
         "excess_hours": 8.74,
-        "opportunity_loss_yuan": 498.18
+        "opportunity_loss_yuan": 874.0
       }
     ]
   },
@@ -8617,7 +8617,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.49,
         "excess_hours": 5.7,
-        "opportunity_loss_yuan": 324.9
+        "opportunity_loss_yuan": 570.0
       },
       {
         "year": "2026",
@@ -8631,7 +8631,7 @@
         "top_app": "微信",
         "top_app_hours": 3.79,
         "excess_hours": 6.15,
-        "opportunity_loss_yuan": 350.55
+        "opportunity_loss_yuan": 615.0
       }
     ]
   },
@@ -8650,7 +8650,7 @@
         "top_app": "微信",
         "top_app_hours": 4.92,
         "excess_hours": 7.7,
-        "opportunity_loss_yuan": 438.9
+        "opportunity_loss_yuan": 770.0
       },
       {
         "year": "2026",
@@ -8664,7 +8664,7 @@
         "top_app": "微信",
         "top_app_hours": 5.28,
         "excess_hours": 9.96,
-        "opportunity_loss_yuan": 567.72
+        "opportunity_loss_yuan": 996.0
       }
     ]
   },
@@ -8683,7 +8683,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.75,
         "excess_hours": 8.35,
-        "opportunity_loss_yuan": 475.95
+        "opportunity_loss_yuan": 835.0
       },
       {
         "year": "2026",
@@ -8697,7 +8697,7 @@
         "top_app": "微信",
         "top_app_hours": 4.71,
         "excess_hours": 7.74,
-        "opportunity_loss_yuan": 441.18
+        "opportunity_loss_yuan": 774.0
       }
     ]
   },
@@ -8716,7 +8716,7 @@
         "top_app": "微信",
         "top_app_hours": 3.46,
         "excess_hours": 10.58,
-        "opportunity_loss_yuan": 603.06
+        "opportunity_loss_yuan": 1058.0
       },
       {
         "year": "2026",
@@ -8730,7 +8730,7 @@
         "top_app": "微信",
         "top_app_hours": 4.73,
         "excess_hours": 10.54,
-        "opportunity_loss_yuan": 600.78
+        "opportunity_loss_yuan": 1054.0
       }
     ]
   },
@@ -8749,7 +8749,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.8,
         "excess_hours": 16.4,
-        "opportunity_loss_yuan": 934.8
+        "opportunity_loss_yuan": 1640.0
       },
       {
         "year": "2026",
@@ -8763,7 +8763,7 @@
         "top_app": "微信",
         "top_app_hours": 5.64,
         "excess_hours": 9.34,
-        "opportunity_loss_yuan": 532.38
+        "opportunity_loss_yuan": 934.0
       }
     ]
   },
@@ -8782,7 +8782,7 @@
         "top_app": "微信",
         "top_app_hours": 5.19,
         "excess_hours": 12.58,
-        "opportunity_loss_yuan": 717.06
+        "opportunity_loss_yuan": 1258.0
       },
       {
         "year": "2026",
@@ -8796,7 +8796,7 @@
         "top_app": "微信",
         "top_app_hours": 5.35,
         "excess_hours": 8.43,
-        "opportunity_loss_yuan": 480.51
+        "opportunity_loss_yuan": 843.0
       }
     ]
   },
@@ -8815,7 +8815,7 @@
         "top_app": "微信",
         "top_app_hours": 2.41,
         "excess_hours": 8.98,
-        "opportunity_loss_yuan": 511.86
+        "opportunity_loss_yuan": 898.0
       },
       {
         "year": "2026",
@@ -8829,7 +8829,7 @@
         "top_app": "微信",
         "top_app_hours": 4.65,
         "excess_hours": 12.32,
-        "opportunity_loss_yuan": 702.24
+        "opportunity_loss_yuan": 1232.0
       }
     ]
   },
@@ -8848,7 +8848,7 @@
         "top_app": "微信",
         "top_app_hours": 5.35,
         "excess_hours": 9.87,
-        "opportunity_loss_yuan": 562.59
+        "opportunity_loss_yuan": 987.0
       },
       {
         "year": "2026",
@@ -8862,7 +8862,7 @@
         "top_app": "微信",
         "top_app_hours": 2.87,
         "excess_hours": 6.12,
-        "opportunity_loss_yuan": 348.84
+        "opportunity_loss_yuan": 612.0
       }
     ]
   },
@@ -8881,7 +8881,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.47,
         "excess_hours": 10.1,
-        "opportunity_loss_yuan": 575.7
+        "opportunity_loss_yuan": 1010.0
       },
       {
         "year": "2026",
@@ -8895,7 +8895,7 @@
         "top_app": "微信",
         "top_app_hours": 5.49,
         "excess_hours": 12.14,
-        "opportunity_loss_yuan": 691.98
+        "opportunity_loss_yuan": 1214.0
       }
     ]
   },
@@ -8914,7 +8914,7 @@
         "top_app": "微信",
         "top_app_hours": 7.98,
         "excess_hours": 10.71,
-        "opportunity_loss_yuan": 610.47
+        "opportunity_loss_yuan": 1071.0
       },
       {
         "year": "2026",
@@ -8928,7 +8928,7 @@
         "top_app": "微信",
         "top_app_hours": 7.41,
         "excess_hours": 15.07,
-        "opportunity_loss_yuan": 858.99
+        "opportunity_loss_yuan": 1507.0
       }
     ]
   },
@@ -8947,7 +8947,7 @@
         "top_app": "微信",
         "top_app_hours": 5.6,
         "excess_hours": 10.2,
-        "opportunity_loss_yuan": 581.4
+        "opportunity_loss_yuan": 1020.0
       },
       {
         "year": "2026",
@@ -8961,7 +8961,7 @@
         "top_app": "微信",
         "top_app_hours": 4.57,
         "excess_hours": 9.76,
-        "opportunity_loss_yuan": 556.32
+        "opportunity_loss_yuan": 976.0
       }
     ]
   },
@@ -8980,7 +8980,7 @@
         "top_app": "百度网盘",
         "top_app_hours": 9.22,
         "excess_hours": 14.92,
-        "opportunity_loss_yuan": 850.44
+        "opportunity_loss_yuan": 1492.0
       },
       {
         "year": "2026",
@@ -8994,7 +8994,7 @@
         "top_app": "微信",
         "top_app_hours": 4.02,
         "excess_hours": 9.98,
-        "opportunity_loss_yuan": 568.86
+        "opportunity_loss_yuan": 998.0
       }
     ]
   },
@@ -9013,7 +9013,7 @@
         "top_app": "微信",
         "top_app_hours": 6.38,
         "excess_hours": 8.82,
-        "opportunity_loss_yuan": 502.74
+        "opportunity_loss_yuan": 882.0
       },
       {
         "year": "2026",
@@ -9027,7 +9027,7 @@
         "top_app": "微信",
         "top_app_hours": 4.04,
         "excess_hours": 10.41,
-        "opportunity_loss_yuan": 593.37
+        "opportunity_loss_yuan": 1041.0
       }
     ]
   },
@@ -9046,7 +9046,7 @@
         "top_app": "微信",
         "top_app_hours": 6.81,
         "excess_hours": 12.87,
-        "opportunity_loss_yuan": 733.59
+        "opportunity_loss_yuan": 1287.0
       },
       {
         "year": "2026",
@@ -9060,7 +9060,7 @@
         "top_app": "微信",
         "top_app_hours": 10.82,
         "excess_hours": 13.78,
-        "opportunity_loss_yuan": 785.46
+        "opportunity_loss_yuan": 1378.0
       }
     ]
   },
@@ -9079,7 +9079,7 @@
         "top_app": "微信",
         "top_app_hours": 6.13,
         "excess_hours": 9.69,
-        "opportunity_loss_yuan": 552.33
+        "opportunity_loss_yuan": 969.0
       },
       {
         "year": "2026",
@@ -9093,7 +9093,7 @@
         "top_app": "微信",
         "top_app_hours": 8.7,
         "excess_hours": 20.8,
-        "opportunity_loss_yuan": 1185.6
+        "opportunity_loss_yuan": 2080.0
       }
     ]
   },
@@ -9112,7 +9112,7 @@
         "top_app": "微信",
         "top_app_hours": 4.46,
         "excess_hours": 8.59,
-        "opportunity_loss_yuan": 489.63
+        "opportunity_loss_yuan": 859.0
       },
       {
         "year": "2026",
@@ -9126,7 +9126,7 @@
         "top_app": "微信",
         "top_app_hours": 3.94,
         "excess_hours": 10.45,
-        "opportunity_loss_yuan": 595.65
+        "opportunity_loss_yuan": 1045.0
       }
     ]
   },
@@ -9145,7 +9145,7 @@
         "top_app": "微信",
         "top_app_hours": 7.59,
         "excess_hours": 15.14,
-        "opportunity_loss_yuan": 862.98
+        "opportunity_loss_yuan": 1514.0
       },
       {
         "year": "2026",
@@ -9159,7 +9159,7 @@
         "top_app": "微信",
         "top_app_hours": 4.26,
         "excess_hours": 9.6,
-        "opportunity_loss_yuan": 547.2
+        "opportunity_loss_yuan": 960.0
       }
     ]
   },
@@ -9178,7 +9178,7 @@
         "top_app": "微信",
         "top_app_hours": 5.53,
         "excess_hours": 10.21,
-        "opportunity_loss_yuan": 581.97
+        "opportunity_loss_yuan": 1021.0
       },
       {
         "year": "2026",
@@ -9192,7 +9192,7 @@
         "top_app": "微信",
         "top_app_hours": 5.08,
         "excess_hours": 12.26,
-        "opportunity_loss_yuan": 698.82
+        "opportunity_loss_yuan": 1226.0
       }
     ]
   },
@@ -9211,7 +9211,7 @@
         "top_app": "微信",
         "top_app_hours": 5.06,
         "excess_hours": 8.72,
-        "opportunity_loss_yuan": 497.04
+        "opportunity_loss_yuan": 872.0
       },
       {
         "year": "2026",
@@ -9225,7 +9225,7 @@
         "top_app": "微信",
         "top_app_hours": 5.92,
         "excess_hours": 12.13,
-        "opportunity_loss_yuan": 691.41
+        "opportunity_loss_yuan": 1213.0
       }
     ]
   },
@@ -9244,7 +9244,7 @@
         "top_app": "微信",
         "top_app_hours": 6.39,
         "excess_hours": 14.83,
-        "opportunity_loss_yuan": 845.31
+        "opportunity_loss_yuan": 1483.0
       },
       {
         "year": "2026",
@@ -9258,7 +9258,7 @@
         "top_app": "微信",
         "top_app_hours": 5.97,
         "excess_hours": 10.48,
-        "opportunity_loss_yuan": 597.36
+        "opportunity_loss_yuan": 1048.0
       }
     ]
   },
@@ -9277,7 +9277,7 @@
         "top_app": "微信",
         "top_app_hours": 7.5,
         "excess_hours": 17.07,
-        "opportunity_loss_yuan": 972.99
+        "opportunity_loss_yuan": 1707.0
       },
       {
         "year": "2026",
@@ -9291,7 +9291,7 @@
         "top_app": "微信",
         "top_app_hours": 5.53,
         "excess_hours": 13.32,
-        "opportunity_loss_yuan": 759.24
+        "opportunity_loss_yuan": 1332.0
       }
     ]
   },
@@ -9310,7 +9310,7 @@
         "top_app": "百度网盘",
         "top_app_hours": 6.26,
         "excess_hours": 17.54,
-        "opportunity_loss_yuan": 999.78
+        "opportunity_loss_yuan": 1754.0
       },
       {
         "year": "2026",
@@ -9324,7 +9324,7 @@
         "top_app": "微信",
         "top_app_hours": 6.84,
         "excess_hours": 11.1,
-        "opportunity_loss_yuan": 632.7
+        "opportunity_loss_yuan": 1110.0
       }
     ]
   },
@@ -9343,7 +9343,7 @@
         "top_app": "微信",
         "top_app_hours": 4.08,
         "excess_hours": 12.01,
-        "opportunity_loss_yuan": 684.57
+        "opportunity_loss_yuan": 1201.0
       },
       {
         "year": "2026",
@@ -9357,7 +9357,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.09,
         "excess_hours": 7.64,
-        "opportunity_loss_yuan": 435.48
+        "opportunity_loss_yuan": 764.0
       }
     ]
   },
@@ -9376,7 +9376,7 @@
         "top_app": "微信",
         "top_app_hours": 5.13,
         "excess_hours": 11.98,
-        "opportunity_loss_yuan": 682.86
+        "opportunity_loss_yuan": 1198.0
       },
       {
         "year": "2026",
@@ -9390,7 +9390,7 @@
         "top_app": "微信",
         "top_app_hours": 5.47,
         "excess_hours": 7.98,
-        "opportunity_loss_yuan": 454.86
+        "opportunity_loss_yuan": 798.0
       }
     ]
   },
@@ -9409,7 +9409,7 @@
         "top_app": "微信",
         "top_app_hours": 6.2,
         "excess_hours": 11.44,
-        "opportunity_loss_yuan": 652.08
+        "opportunity_loss_yuan": 1144.0
       },
       {
         "year": "2026",
@@ -9423,7 +9423,7 @@
         "top_app": "微信",
         "top_app_hours": 4.79,
         "excess_hours": 12.74,
-        "opportunity_loss_yuan": 726.18
+        "opportunity_loss_yuan": 1274.0
       }
     ]
   },
@@ -9442,7 +9442,7 @@
         "top_app": "微信",
         "top_app_hours": 4.72,
         "excess_hours": 8.95,
-        "opportunity_loss_yuan": 510.15
+        "opportunity_loss_yuan": 895.0
       },
       {
         "year": "2026",
@@ -9456,7 +9456,7 @@
         "top_app": "微信",
         "top_app_hours": 6.37,
         "excess_hours": 12.21,
-        "opportunity_loss_yuan": 695.97
+        "opportunity_loss_yuan": 1221.0
       }
     ]
   },
@@ -9475,7 +9475,7 @@
         "top_app": "微信",
         "top_app_hours": 6.61,
         "excess_hours": 14.35,
-        "opportunity_loss_yuan": 817.95
+        "opportunity_loss_yuan": 1435.0
       },
       {
         "year": "2026",
@@ -9489,7 +9489,7 @@
         "top_app": "微信",
         "top_app_hours": 4.62,
         "excess_hours": 9.44,
-        "opportunity_loss_yuan": 538.08
+        "opportunity_loss_yuan": 944.0
       }
     ]
   },
@@ -9508,7 +9508,7 @@
         "top_app": "微信",
         "top_app_hours": 5.4,
         "excess_hours": 12.64,
-        "opportunity_loss_yuan": 720.48
+        "opportunity_loss_yuan": 1264.0
       },
       {
         "year": "2026",
@@ -9522,7 +9522,7 @@
         "top_app": "微信",
         "top_app_hours": 1.9,
         "excess_hours": 3.34,
-        "opportunity_loss_yuan": 190.38
+        "opportunity_loss_yuan": 334.0
       }
     ]
   },
@@ -9541,7 +9541,7 @@
         "top_app": "微信",
         "top_app_hours": 3.9,
         "excess_hours": 10.05,
-        "opportunity_loss_yuan": 572.85
+        "opportunity_loss_yuan": 1005.0
       },
       {
         "year": "2026",
@@ -9555,7 +9555,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.43,
         "excess_hours": 4.5,
-        "opportunity_loss_yuan": 256.5
+        "opportunity_loss_yuan": 450.0
       }
     ]
   },
@@ -9574,7 +9574,7 @@
         "top_app": "微信",
         "top_app_hours": 4.1,
         "excess_hours": 10.42,
-        "opportunity_loss_yuan": 593.94
+        "opportunity_loss_yuan": 1042.0
       },
       {
         "year": "2026",
@@ -9588,7 +9588,7 @@
         "top_app": "微信",
         "top_app_hours": 5.58,
         "excess_hours": 9.54,
-        "opportunity_loss_yuan": 543.78
+        "opportunity_loss_yuan": 954.0
       }
     ]
   },
@@ -9607,7 +9607,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.53,
         "excess_hours": 10.7,
-        "opportunity_loss_yuan": 609.9
+        "opportunity_loss_yuan": 1070.0
       },
       {
         "year": "2026",
@@ -9621,7 +9621,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.13,
         "excess_hours": 8.92,
-        "opportunity_loss_yuan": 508.44
+        "opportunity_loss_yuan": 892.0
       }
     ]
   },
@@ -9640,7 +9640,7 @@
         "top_app": "微信",
         "top_app_hours": 4.56,
         "excess_hours": 12.74,
-        "opportunity_loss_yuan": 726.18
+        "opportunity_loss_yuan": 1274.0
       },
       {
         "year": "2026",
@@ -9654,7 +9654,7 @@
         "top_app": "微信",
         "top_app_hours": 3.23,
         "excess_hours": 6.9,
-        "opportunity_loss_yuan": 393.3
+        "opportunity_loss_yuan": 690.0
       }
     ]
   },
@@ -9673,7 +9673,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 5.49,
         "excess_hours": 15.65,
-        "opportunity_loss_yuan": 892.05
+        "opportunity_loss_yuan": 1565.0
       },
       {
         "year": "2026",
@@ -9687,7 +9687,7 @@
         "top_app": "微信",
         "top_app_hours": 2.81,
         "excess_hours": 5.84,
-        "opportunity_loss_yuan": 332.88
+        "opportunity_loss_yuan": 584.0
       }
     ]
   },
@@ -9706,7 +9706,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.68,
         "excess_hours": 11.45,
-        "opportunity_loss_yuan": 652.65
+        "opportunity_loss_yuan": 1145.0
       },
       {
         "year": "2026",
@@ -9720,7 +9720,7 @@
         "top_app": "微信",
         "top_app_hours": 3.28,
         "excess_hours": 4.5,
-        "opportunity_loss_yuan": 256.5
+        "opportunity_loss_yuan": 450.0
       }
     ]
   },
@@ -9739,7 +9739,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.22,
         "excess_hours": 11.01,
-        "opportunity_loss_yuan": 627.57
+        "opportunity_loss_yuan": 1101.0
       },
       {
         "year": "2026",
@@ -9753,7 +9753,7 @@
         "top_app": "微信",
         "top_app_hours": 3.79,
         "excess_hours": 8.36,
-        "opportunity_loss_yuan": 476.52
+        "opportunity_loss_yuan": 836.0
       }
     ]
   },
@@ -9772,7 +9772,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.52,
         "excess_hours": 11.06,
-        "opportunity_loss_yuan": 630.42
+        "opportunity_loss_yuan": 1106.0
       },
       {
         "year": "2026",
@@ -9786,7 +9786,7 @@
         "top_app": "微信",
         "top_app_hours": 4.43,
         "excess_hours": 7.08,
-        "opportunity_loss_yuan": 403.56
+        "opportunity_loss_yuan": 708.0
       }
     ]
   },
@@ -9805,7 +9805,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.24,
         "excess_hours": 10.61,
-        "opportunity_loss_yuan": 604.77
+        "opportunity_loss_yuan": 1061.0
       },
       {
         "year": "2026",
@@ -9819,7 +9819,7 @@
         "top_app": "微信",
         "top_app_hours": 4.01,
         "excess_hours": 7.31,
-        "opportunity_loss_yuan": 416.67
+        "opportunity_loss_yuan": 731.0
       }
     ]
   },
@@ -9838,7 +9838,7 @@
         "top_app": "抖音",
         "top_app_hours": 13.57,
         "excess_hours": 19.69,
-        "opportunity_loss_yuan": 1122.33
+        "opportunity_loss_yuan": 1969.0
       },
       {
         "year": "2026",
@@ -9852,7 +9852,7 @@
         "top_app": "微信",
         "top_app_hours": 6.61,
         "excess_hours": 12.59,
-        "opportunity_loss_yuan": 717.63
+        "opportunity_loss_yuan": 1259.0
       }
     ]
   },
@@ -9871,7 +9871,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.75,
         "excess_hours": 11.54,
-        "opportunity_loss_yuan": 657.78
+        "opportunity_loss_yuan": 1154.0
       },
       {
         "year": "2026",
@@ -9885,7 +9885,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.39,
         "excess_hours": 8.13,
-        "opportunity_loss_yuan": 463.41
+        "opportunity_loss_yuan": 813.0
       }
     ]
   },
@@ -9904,7 +9904,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.72,
         "excess_hours": 12.12,
-        "opportunity_loss_yuan": 690.84
+        "opportunity_loss_yuan": 1212.0
       },
       {
         "year": "2026",
@@ -9918,7 +9918,7 @@
         "top_app": "微信",
         "top_app_hours": 8.14,
         "excess_hours": 12.03,
-        "opportunity_loss_yuan": 685.71
+        "opportunity_loss_yuan": 1203.0
       }
     ]
   },
@@ -9937,7 +9937,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.76,
         "excess_hours": 10.22,
-        "opportunity_loss_yuan": 582.54
+        "opportunity_loss_yuan": 1022.0
       },
       {
         "year": "2026",
@@ -9951,7 +9951,7 @@
         "top_app": "微信",
         "top_app_hours": 9.99,
         "excess_hours": 13.14,
-        "opportunity_loss_yuan": 748.98
+        "opportunity_loss_yuan": 1314.0
       }
     ]
   },
@@ -9970,7 +9970,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.26,
         "excess_hours": 13.72,
-        "opportunity_loss_yuan": 782.04
+        "opportunity_loss_yuan": 1372.0
       },
       {
         "year": "2026",
@@ -9984,7 +9984,7 @@
         "top_app": "微信",
         "top_app_hours": 3.16,
         "excess_hours": 5.06,
-        "opportunity_loss_yuan": 288.42
+        "opportunity_loss_yuan": 506.0
       }
     ]
   },
@@ -10003,7 +10003,7 @@
         "top_app": "微信",
         "top_app_hours": 2.76,
         "excess_hours": 8.54,
-        "opportunity_loss_yuan": 486.78
+        "opportunity_loss_yuan": 854.0
       },
       {
         "year": "2026",
@@ -10017,7 +10017,7 @@
         "top_app": "微信",
         "top_app_hours": 3.42,
         "excess_hours": 6.2,
-        "opportunity_loss_yuan": 353.4
+        "opportunity_loss_yuan": 620.0
       }
     ]
   },
@@ -10036,7 +10036,7 @@
         "top_app": "微信",
         "top_app_hours": 3.96,
         "excess_hours": 9.29,
-        "opportunity_loss_yuan": 529.53
+        "opportunity_loss_yuan": 929.0
       },
       {
         "year": "2026",
@@ -10050,7 +10050,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.44,
         "excess_hours": 12.06,
-        "opportunity_loss_yuan": 687.42
+        "opportunity_loss_yuan": 1206.0
       }
     ]
   },
@@ -10069,7 +10069,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.51,
         "excess_hours": 10.71,
-        "opportunity_loss_yuan": 610.47
+        "opportunity_loss_yuan": 1071.0
       },
       {
         "year": "2026",
@@ -10083,7 +10083,7 @@
         "top_app": "微信",
         "top_app_hours": 7.33,
         "excess_hours": 10.05,
-        "opportunity_loss_yuan": 572.85
+        "opportunity_loss_yuan": 1005.0
       }
     ]
   },
@@ -10102,7 +10102,7 @@
         "top_app": "微信",
         "top_app_hours": 3.56,
         "excess_hours": 9.14,
-        "opportunity_loss_yuan": 520.98
+        "opportunity_loss_yuan": 914.0
       },
       {
         "year": "2026",
@@ -10116,7 +10116,7 @@
         "top_app": "微信",
         "top_app_hours": 3.84,
         "excess_hours": 5.63,
-        "opportunity_loss_yuan": 320.91
+        "opportunity_loss_yuan": 563.0
       }
     ]
   },
@@ -10135,7 +10135,7 @@
         "top_app": "微信",
         "top_app_hours": 6.98,
         "excess_hours": 11.52,
-        "opportunity_loss_yuan": 656.64
+        "opportunity_loss_yuan": 1152.0
       },
       {
         "year": "2026",
@@ -10149,7 +10149,7 @@
         "top_app": "微信",
         "top_app_hours": 5.56,
         "excess_hours": 7.09,
-        "opportunity_loss_yuan": 404.13
+        "opportunity_loss_yuan": 709.0
       }
     ]
   },
@@ -10168,7 +10168,7 @@
         "top_app": "微信",
         "top_app_hours": 5.72,
         "excess_hours": 10.71,
-        "opportunity_loss_yuan": 610.47
+        "opportunity_loss_yuan": 1071.0
       },
       {
         "year": "2026",
@@ -10182,7 +10182,7 @@
         "top_app": "微信",
         "top_app_hours": 4.25,
         "excess_hours": 10.42,
-        "opportunity_loss_yuan": 593.94
+        "opportunity_loss_yuan": 1042.0
       }
     ]
   },
@@ -10201,7 +10201,7 @@
         "top_app": "微信",
         "top_app_hours": 5.42,
         "excess_hours": 9.82,
-        "opportunity_loss_yuan": 559.74
+        "opportunity_loss_yuan": 982.0
       },
       {
         "year": "2026",
@@ -10215,7 +10215,7 @@
         "top_app": "微信",
         "top_app_hours": 4.48,
         "excess_hours": 9.71,
-        "opportunity_loss_yuan": 553.47
+        "opportunity_loss_yuan": 971.0
       }
     ]
   },
@@ -10234,7 +10234,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.75,
         "excess_hours": 11.58,
-        "opportunity_loss_yuan": 660.06
+        "opportunity_loss_yuan": 1158.0
       },
       {
         "year": "2026",
@@ -10248,7 +10248,7 @@
         "top_app": "微信",
         "top_app_hours": 3.87,
         "excess_hours": 7.37,
-        "opportunity_loss_yuan": 420.09
+        "opportunity_loss_yuan": 737.0
       }
     ]
   },
@@ -10267,7 +10267,7 @@
         "top_app": "微信",
         "top_app_hours": 2.98,
         "excess_hours": 5.27,
-        "opportunity_loss_yuan": 300.39
+        "opportunity_loss_yuan": 527.0
       },
       {
         "year": "2026",
@@ -10281,7 +10281,7 @@
         "top_app": "微信",
         "top_app_hours": 6.08,
         "excess_hours": 10.64,
-        "opportunity_loss_yuan": 606.48
+        "opportunity_loss_yuan": 1064.0
       }
     ]
   },
@@ -10300,7 +10300,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.38,
         "excess_hours": 12.68,
-        "opportunity_loss_yuan": 722.76
+        "opportunity_loss_yuan": 1268.0
       },
       {
         "year": "2026",
@@ -10314,7 +10314,7 @@
         "top_app": "微信",
         "top_app_hours": 5.48,
         "excess_hours": 10.19,
-        "opportunity_loss_yuan": 580.83
+        "opportunity_loss_yuan": 1019.0
       }
     ]
   },
@@ -10333,7 +10333,7 @@
         "top_app": "微信",
         "top_app_hours": 4.8,
         "excess_hours": 6.7,
-        "opportunity_loss_yuan": 381.9
+        "opportunity_loss_yuan": 670.0
       },
       {
         "year": "2026",
@@ -10347,7 +10347,7 @@
         "top_app": "微信",
         "top_app_hours": 5.26,
         "excess_hours": 9.02,
-        "opportunity_loss_yuan": 514.14
+        "opportunity_loss_yuan": 902.0
       }
     ]
   },
@@ -10366,7 +10366,7 @@
         "top_app": "微信",
         "top_app_hours": 4.11,
         "excess_hours": 8.88,
-        "opportunity_loss_yuan": 506.16
+        "opportunity_loss_yuan": 888.0
       },
       {
         "year": "2026",
@@ -10380,7 +10380,7 @@
         "top_app": "微信",
         "top_app_hours": 4.88,
         "excess_hours": 11.32,
-        "opportunity_loss_yuan": 645.24
+        "opportunity_loss_yuan": 1132.0
       }
     ]
   },
@@ -10399,7 +10399,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.54,
         "excess_hours": 10.41,
-        "opportunity_loss_yuan": 593.37
+        "opportunity_loss_yuan": 1041.0
       },
       {
         "year": "2026",
@@ -10413,7 +10413,7 @@
         "top_app": "微信",
         "top_app_hours": 7.13,
         "excess_hours": 9.28,
-        "opportunity_loss_yuan": 528.96
+        "opportunity_loss_yuan": 928.0
       }
     ]
   },
@@ -10432,7 +10432,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.34,
         "excess_hours": 9.4,
-        "opportunity_loss_yuan": 535.8
+        "opportunity_loss_yuan": 940.0
       },
       {
         "year": "2026",
@@ -10446,7 +10446,7 @@
         "top_app": "微信",
         "top_app_hours": 7.4,
         "excess_hours": 9.69,
-        "opportunity_loss_yuan": 552.33
+        "opportunity_loss_yuan": 969.0
       }
     ]
   },
@@ -10465,7 +10465,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.38,
         "excess_hours": 12.39,
-        "opportunity_loss_yuan": 706.23
+        "opportunity_loss_yuan": 1239.0
       },
       {
         "year": "2026",
@@ -10479,7 +10479,7 @@
         "top_app": "微信",
         "top_app_hours": 5.57,
         "excess_hours": 12.15,
-        "opportunity_loss_yuan": 692.55
+        "opportunity_loss_yuan": 1215.0
       }
     ]
   },
@@ -10498,7 +10498,7 @@
         "top_app": "微信",
         "top_app_hours": 6.77,
         "excess_hours": 9.12,
-        "opportunity_loss_yuan": 519.84
+        "opportunity_loss_yuan": 912.0
       },
       {
         "year": "2026",
@@ -10512,7 +10512,7 @@
         "top_app": "微信",
         "top_app_hours": 5.9,
         "excess_hours": 12.97,
-        "opportunity_loss_yuan": 739.29
+        "opportunity_loss_yuan": 1297.0
       }
     ]
   },
@@ -10531,7 +10531,7 @@
         "top_app": "微信",
         "top_app_hours": 5.91,
         "excess_hours": 11.99,
-        "opportunity_loss_yuan": 683.43
+        "opportunity_loss_yuan": 1199.0
       },
       {
         "year": "2026",
@@ -10545,7 +10545,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.07,
         "excess_hours": 17.31,
-        "opportunity_loss_yuan": 986.67
+        "opportunity_loss_yuan": 1731.0
       }
     ]
   },
@@ -10564,7 +10564,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.28,
         "excess_hours": 11.73,
-        "opportunity_loss_yuan": 668.61
+        "opportunity_loss_yuan": 1173.0
       },
       {
         "year": "2026",
@@ -10578,7 +10578,7 @@
         "top_app": "微信",
         "top_app_hours": 5.09,
         "excess_hours": 11.0,
-        "opportunity_loss_yuan": 627.0
+        "opportunity_loss_yuan": 1100.0
       }
     ]
   },
@@ -10597,7 +10597,7 @@
         "top_app": "微信",
         "top_app_hours": 5.36,
         "excess_hours": 10.83,
-        "opportunity_loss_yuan": 617.31
+        "opportunity_loss_yuan": 1083.0
       },
       {
         "year": "2026",
@@ -10611,7 +10611,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.71,
         "excess_hours": 9.45,
-        "opportunity_loss_yuan": 538.65
+        "opportunity_loss_yuan": 945.0
       }
     ]
   },
@@ -10630,7 +10630,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.6,
         "excess_hours": 6.71,
-        "opportunity_loss_yuan": 382.47
+        "opportunity_loss_yuan": 671.0
       },
       {
         "year": "2026",
@@ -10644,7 +10644,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 9.12,
         "excess_hours": 18.98,
-        "opportunity_loss_yuan": 1081.86
+        "opportunity_loss_yuan": 1898.0
       }
     ]
   },
@@ -10663,7 +10663,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.84,
         "excess_hours": 9.79,
-        "opportunity_loss_yuan": 558.03
+        "opportunity_loss_yuan": 979.0
       },
       {
         "year": "2026",
@@ -10677,7 +10677,7 @@
         "top_app": "微信",
         "top_app_hours": 2.51,
         "excess_hours": 5.13,
-        "opportunity_loss_yuan": 292.41
+        "opportunity_loss_yuan": 513.0
       }
     ]
   },
@@ -10696,7 +10696,7 @@
         "top_app": "微信",
         "top_app_hours": 4.98,
         "excess_hours": 12.21,
-        "opportunity_loss_yuan": 695.97
+        "opportunity_loss_yuan": 1221.0
       },
       {
         "year": "2026",
@@ -10710,7 +10710,7 @@
         "top_app": "微信",
         "top_app_hours": 2.71,
         "excess_hours": 3.68,
-        "opportunity_loss_yuan": 209.76
+        "opportunity_loss_yuan": 368.0
       }
     ]
   },
@@ -10729,7 +10729,7 @@
         "top_app": "微信",
         "top_app_hours": 4.54,
         "excess_hours": 7.67,
-        "opportunity_loss_yuan": 437.19
+        "opportunity_loss_yuan": 767.0
       },
       {
         "year": "2026",
@@ -10743,7 +10743,7 @@
         "top_app": "微信",
         "top_app_hours": 4.09,
         "excess_hours": 6.77,
-        "opportunity_loss_yuan": 385.89
+        "opportunity_loss_yuan": 677.0
       }
     ]
   },
@@ -10762,7 +10762,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 8.18,
         "excess_hours": 16.87,
-        "opportunity_loss_yuan": 961.59
+        "opportunity_loss_yuan": 1687.0
       },
       {
         "year": "2026",
@@ -10776,7 +10776,7 @@
         "top_app": "微信",
         "top_app_hours": 6.04,
         "excess_hours": 11.41,
-        "opportunity_loss_yuan": 650.37
+        "opportunity_loss_yuan": 1141.0
       }
     ]
   },
@@ -10795,7 +10795,7 @@
         "top_app": "微信",
         "top_app_hours": 4.02,
         "excess_hours": 8.69,
-        "opportunity_loss_yuan": 495.33
+        "opportunity_loss_yuan": 869.0
       },
       {
         "year": "2026",
@@ -10809,7 +10809,7 @@
         "top_app": "微信",
         "top_app_hours": 5.43,
         "excess_hours": 9.78,
-        "opportunity_loss_yuan": 557.46
+        "opportunity_loss_yuan": 978.0
       }
     ]
   },
@@ -10828,7 +10828,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.85,
         "excess_hours": 13.3,
-        "opportunity_loss_yuan": 758.1
+        "opportunity_loss_yuan": 1330.0
       },
       {
         "year": "2026",
@@ -10842,7 +10842,7 @@
         "top_app": "微信",
         "top_app_hours": 6.09,
         "excess_hours": 11.36,
-        "opportunity_loss_yuan": 647.52
+        "opportunity_loss_yuan": 1136.0
       }
     ]
   },
@@ -10861,7 +10861,7 @@
         "top_app": "微信",
         "top_app_hours": 5.15,
         "excess_hours": 12.98,
-        "opportunity_loss_yuan": 739.86
+        "opportunity_loss_yuan": 1298.0
       },
       {
         "year": "2026",
@@ -10875,7 +10875,7 @@
         "top_app": "微信",
         "top_app_hours": 5.08,
         "excess_hours": 13.98,
-        "opportunity_loss_yuan": 796.86
+        "opportunity_loss_yuan": 1398.0
       }
     ]
   },
@@ -10894,7 +10894,7 @@
         "top_app": "小鹅通学员版",
         "top_app_hours": 9.27,
         "excess_hours": 20.82,
-        "opportunity_loss_yuan": 1186.74
+        "opportunity_loss_yuan": 2082.0
       },
       {
         "year": "2026",
@@ -10908,7 +10908,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.91,
         "excess_hours": 5.98,
-        "opportunity_loss_yuan": 340.86
+        "opportunity_loss_yuan": 598.0
       }
     ]
   },
@@ -10927,7 +10927,7 @@
         "top_app": "微信",
         "top_app_hours": 3.98,
         "excess_hours": 8.39,
-        "opportunity_loss_yuan": 478.23
+        "opportunity_loss_yuan": 839.0
       },
       {
         "year": "2026",
@@ -10941,7 +10941,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.13,
         "excess_hours": 12.34,
-        "opportunity_loss_yuan": 703.38
+        "opportunity_loss_yuan": 1234.0
       }
     ]
   },
@@ -10960,7 +10960,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.26,
         "excess_hours": 6.51,
-        "opportunity_loss_yuan": 371.07
+        "opportunity_loss_yuan": 651.0
       },
       {
         "year": "2026",
@@ -10974,7 +10974,7 @@
         "top_app": "微信",
         "top_app_hours": 7.38,
         "excess_hours": 15.84,
-        "opportunity_loss_yuan": 902.88
+        "opportunity_loss_yuan": 1584.0
       }
     ]
   },
@@ -10993,7 +10993,7 @@
         "top_app": "抖音",
         "top_app_hours": 7.03,
         "excess_hours": 8.45,
-        "opportunity_loss_yuan": 481.65
+        "opportunity_loss_yuan": 845.0
       },
       {
         "year": "2026",
@@ -11007,7 +11007,7 @@
         "top_app": "微信",
         "top_app_hours": 6.67,
         "excess_hours": 14.36,
-        "opportunity_loss_yuan": 818.52
+        "opportunity_loss_yuan": 1436.0
       }
     ]
   },
@@ -11026,7 +11026,7 @@
         "top_app": "微信",
         "top_app_hours": 4.85,
         "excess_hours": 9.1,
-        "opportunity_loss_yuan": 518.7
+        "opportunity_loss_yuan": 910.0
       },
       {
         "year": "2026",
@@ -11040,7 +11040,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.07,
         "excess_hours": 12.14,
-        "opportunity_loss_yuan": 691.98
+        "opportunity_loss_yuan": 1214.0
       }
     ]
   },
@@ -11059,7 +11059,7 @@
         "top_app": "微信",
         "top_app_hours": 6.62,
         "excess_hours": 10.65,
-        "opportunity_loss_yuan": 607.05
+        "opportunity_loss_yuan": 1065.0
       },
       {
         "year": "2026",
@@ -11073,7 +11073,7 @@
         "top_app": "微信",
         "top_app_hours": 3.97,
         "excess_hours": 13.32,
-        "opportunity_loss_yuan": 759.24
+        "opportunity_loss_yuan": 1332.0
       }
     ]
   },
@@ -11092,7 +11092,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.16,
         "excess_hours": 13.01,
-        "opportunity_loss_yuan": 741.57
+        "opportunity_loss_yuan": 1301.0
       },
       {
         "year": "2026",
@@ -11106,7 +11106,7 @@
         "top_app": "微信",
         "top_app_hours": 5.85,
         "excess_hours": 11.03,
-        "opportunity_loss_yuan": 628.71
+        "opportunity_loss_yuan": 1103.0
       }
     ]
   },
@@ -11125,7 +11125,7 @@
         "top_app": "微信",
         "top_app_hours": 6.24,
         "excess_hours": 12.41,
-        "opportunity_loss_yuan": 707.37
+        "opportunity_loss_yuan": 1241.0
       },
       {
         "year": "2026",
@@ -11139,7 +11139,7 @@
         "top_app": "微信",
         "top_app_hours": 5.74,
         "excess_hours": 8.76,
-        "opportunity_loss_yuan": 499.32
+        "opportunity_loss_yuan": 876.0
       }
     ]
   },
@@ -11158,7 +11158,7 @@
         "top_app": "微信",
         "top_app_hours": 5.73,
         "excess_hours": 9.31,
-        "opportunity_loss_yuan": 530.67
+        "opportunity_loss_yuan": 931.0
       },
       {
         "year": "2026",
@@ -11172,7 +11172,7 @@
         "top_app": "微信",
         "top_app_hours": 5.46,
         "excess_hours": 9.94,
-        "opportunity_loss_yuan": 566.58
+        "opportunity_loss_yuan": 994.0
       }
     ]
   },
@@ -11191,7 +11191,7 @@
         "top_app": "微信",
         "top_app_hours": 4.6,
         "excess_hours": 10.26,
-        "opportunity_loss_yuan": 584.82
+        "opportunity_loss_yuan": 1026.0
       },
       {
         "year": "2026",
@@ -11205,7 +11205,7 @@
         "top_app": "微信",
         "top_app_hours": 2.01,
         "excess_hours": 5.61,
-        "opportunity_loss_yuan": 319.77
+        "opportunity_loss_yuan": 561.0
       }
     ]
   },
@@ -11224,7 +11224,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.33,
         "excess_hours": 10.47,
-        "opportunity_loss_yuan": 596.79
+        "opportunity_loss_yuan": 1047.0
       },
       {
         "year": "2026",
@@ -11238,7 +11238,7 @@
         "top_app": "微信",
         "top_app_hours": 4.73,
         "excess_hours": 10.43,
-        "opportunity_loss_yuan": 594.51
+        "opportunity_loss_yuan": 1043.0
       }
     ]
   },
@@ -11257,7 +11257,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.33,
         "excess_hours": 11.31,
-        "opportunity_loss_yuan": 644.67
+        "opportunity_loss_yuan": 1131.0
       },
       {
         "year": "2026",
@@ -11271,7 +11271,7 @@
         "top_app": "微信",
         "top_app_hours": 4.34,
         "excess_hours": 9.44,
-        "opportunity_loss_yuan": 538.08
+        "opportunity_loss_yuan": 944.0
       }
     ]
   },
@@ -11290,7 +11290,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.25,
         "excess_hours": 15.74,
-        "opportunity_loss_yuan": 897.18
+        "opportunity_loss_yuan": 1574.0
       },
       {
         "year": "2026",
@@ -11304,7 +11304,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 3.54,
         "excess_hours": 16.23,
-        "opportunity_loss_yuan": 925.11
+        "opportunity_loss_yuan": 1623.0
       }
     ]
   },
@@ -11323,7 +11323,7 @@
         "top_app": "微信",
         "top_app_hours": 3.1,
         "excess_hours": 11.8,
-        "opportunity_loss_yuan": 672.6
+        "opportunity_loss_yuan": 1180.0
       },
       {
         "year": "2026",
@@ -11337,7 +11337,7 @@
         "top_app": "微信",
         "top_app_hours": 5.51,
         "excess_hours": 13.99,
-        "opportunity_loss_yuan": 797.43
+        "opportunity_loss_yuan": 1399.0
       }
     ]
   },
@@ -11356,7 +11356,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.9,
         "excess_hours": 14.15,
-        "opportunity_loss_yuan": 806.55
+        "opportunity_loss_yuan": 1415.0
       },
       {
         "year": "2026",
@@ -11370,7 +11370,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.02,
         "excess_hours": 6.54,
-        "opportunity_loss_yuan": 372.78
+        "opportunity_loss_yuan": 654.0
       }
     ]
   },
@@ -11389,7 +11389,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.81,
         "excess_hours": 11.0,
-        "opportunity_loss_yuan": 627.0
+        "opportunity_loss_yuan": 1100.0
       },
       {
         "year": "2026",
@@ -11403,7 +11403,7 @@
         "top_app": "抖音",
         "top_app_hours": 3.47,
         "excess_hours": 10.99,
-        "opportunity_loss_yuan": 626.43
+        "opportunity_loss_yuan": 1099.0
       }
     ]
   },
@@ -11422,7 +11422,7 @@
         "top_app": "微信",
         "top_app_hours": 5.5,
         "excess_hours": 15.23,
-        "opportunity_loss_yuan": 868.11
+        "opportunity_loss_yuan": 1523.0
       },
       {
         "year": "2026",
@@ -11436,7 +11436,7 @@
         "top_app": "微信",
         "top_app_hours": 3.72,
         "excess_hours": 7.99,
-        "opportunity_loss_yuan": 455.43
+        "opportunity_loss_yuan": 799.0
       }
     ]
   },
@@ -11455,7 +11455,7 @@
         "top_app": "微信",
         "top_app_hours": 4.37,
         "excess_hours": 9.08,
-        "opportunity_loss_yuan": 517.56
+        "opportunity_loss_yuan": 908.0
       },
       {
         "year": "2026",
@@ -11469,7 +11469,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.0,
         "excess_hours": 15.15,
-        "opportunity_loss_yuan": 863.55
+        "opportunity_loss_yuan": 1515.0
       }
     ]
   },
@@ -11488,7 +11488,7 @@
         "top_app": "微信",
         "top_app_hours": 3.23,
         "excess_hours": 9.15,
-        "opportunity_loss_yuan": 521.55
+        "opportunity_loss_yuan": 915.0
       },
       {
         "year": "2026",
@@ -11502,7 +11502,7 @@
         "top_app": "微信",
         "top_app_hours": 5.76,
         "excess_hours": 16.52,
-        "opportunity_loss_yuan": 941.64
+        "opportunity_loss_yuan": 1652.0
       }
     ]
   },
@@ -11521,7 +11521,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 6.29,
         "excess_hours": 12.11,
-        "opportunity_loss_yuan": 690.27
+        "opportunity_loss_yuan": 1211.0
       },
       {
         "year": "2026",
@@ -11535,7 +11535,7 @@
         "top_app": "微信",
         "top_app_hours": 5.9,
         "excess_hours": 10.34,
-        "opportunity_loss_yuan": 589.38
+        "opportunity_loss_yuan": 1034.0
       }
     ]
   },
@@ -11554,7 +11554,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.41,
         "excess_hours": 10.69,
-        "opportunity_loss_yuan": 609.33
+        "opportunity_loss_yuan": 1069.0
       },
       {
         "year": "2026",
@@ -11568,7 +11568,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 4.44,
         "excess_hours": 12.19,
-        "opportunity_loss_yuan": 694.83
+        "opportunity_loss_yuan": 1219.0
       }
     ]
   },
@@ -11587,7 +11587,7 @@
         "top_app": "高德地图",
         "top_app_hours": 2.94,
         "excess_hours": 7.34,
-        "opportunity_loss_yuan": 418.38
+        "opportunity_loss_yuan": 734.0
       },
       {
         "year": "2026",
@@ -11601,7 +11601,7 @@
         "top_app": "微信",
         "top_app_hours": 4.07,
         "excess_hours": 7.17,
-        "opportunity_loss_yuan": 408.69
+        "opportunity_loss_yuan": 717.0
       }
     ]
   },
@@ -11620,7 +11620,7 @@
         "top_app": "微信",
         "top_app_hours": 1.96,
         "excess_hours": 5.31,
-        "opportunity_loss_yuan": 302.67
+        "opportunity_loss_yuan": 531.0
       },
       {
         "year": "2026",
@@ -11634,7 +11634,7 @@
         "top_app": "微信",
         "top_app_hours": 2.64,
         "excess_hours": 6.72,
-        "opportunity_loss_yuan": 383.04
+        "opportunity_loss_yuan": 672.0
       }
     ]
   },
@@ -11653,7 +11653,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.85,
         "excess_hours": 7.83,
-        "opportunity_loss_yuan": 446.31
+        "opportunity_loss_yuan": 783.0
       },
       {
         "year": "2026",
@@ -11667,7 +11667,7 @@
         "top_app": "com.ss.android.yumme.video",
         "top_app_hours": 2.42,
         "excess_hours": 7.93,
-        "opportunity_loss_yuan": 452.01
+        "opportunity_loss_yuan": 793.0
       }
     ]
   },
@@ -11686,7 +11686,7 @@
         "top_app": "微信",
         "top_app_hours": 3.73,
         "excess_hours": 8.45,
-        "opportunity_loss_yuan": 481.65
+        "opportunity_loss_yuan": 845.0
       },
       {
         "year": "2026",
@@ -11700,7 +11700,7 @@
         "top_app": "微信",
         "top_app_hours": 2.76,
         "excess_hours": 8.17,
-        "opportunity_loss_yuan": 465.69
+        "opportunity_loss_yuan": 817.0
       }
     ]
   },
@@ -11719,7 +11719,7 @@
         "top_app": "数字健康与家人守护",
         "top_app_hours": 5.6,
         "excess_hours": 15.36,
-        "opportunity_loss_yuan": 875.52
+        "opportunity_loss_yuan": 1536.0
       },
       {
         "year": "2026",
@@ -11733,7 +11733,7 @@
         "top_app": "微信",
         "top_app_hours": 2.58,
         "excess_hours": 8.56,
-        "opportunity_loss_yuan": 487.92
+        "opportunity_loss_yuan": 856.0
       }
     ]
   },
@@ -11752,7 +11752,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.99,
         "excess_hours": 15.14,
-        "opportunity_loss_yuan": 862.98
+        "opportunity_loss_yuan": 1514.0
       },
       {
         "year": "2026",
@@ -11766,7 +11766,7 @@
         "top_app": "微信",
         "top_app_hours": 3.58,
         "excess_hours": 8.25,
-        "opportunity_loss_yuan": 470.25
+        "opportunity_loss_yuan": 825.0
       }
     ]
   },
@@ -11785,7 +11785,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.4,
         "excess_hours": 14.31,
-        "opportunity_loss_yuan": 815.67
+        "opportunity_loss_yuan": 1431.0
       },
       {
         "year": "2026",
@@ -11799,7 +11799,7 @@
         "top_app": "X",
         "top_app_hours": 4.27,
         "excess_hours": 6.94,
-        "opportunity_loss_yuan": 395.58
+        "opportunity_loss_yuan": 694.0
       }
     ]
   },
@@ -11818,7 +11818,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.99,
         "excess_hours": 10.93,
-        "opportunity_loss_yuan": 623.01
+        "opportunity_loss_yuan": 1093.0
       },
       {
         "year": "2026",
@@ -11832,7 +11832,7 @@
         "top_app": "抖音",
         "top_app_hours": 2.07,
         "excess_hours": 7.04,
-        "opportunity_loss_yuan": 401.28
+        "opportunity_loss_yuan": 704.0
       }
     ]
   },
@@ -11851,7 +11851,7 @@
         "top_app": "抖音",
         "top_app_hours": 9.08,
         "excess_hours": 12.19,
-        "opportunity_loss_yuan": 694.83
+        "opportunity_loss_yuan": 1219.0
       },
       {
         "year": "2026",
@@ -11865,7 +11865,7 @@
         "top_app": "抖音",
         "top_app_hours": 5.09,
         "excess_hours": 10.6,
-        "opportunity_loss_yuan": 604.2
+        "opportunity_loss_yuan": 1060.0
       }
     ]
   },
@@ -11884,7 +11884,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.13,
         "excess_hours": 13.65,
-        "opportunity_loss_yuan": 778.05
+        "opportunity_loss_yuan": 1365.0
       },
       {
         "year": "2026",
@@ -11898,7 +11898,7 @@
         "top_app": "微信",
         "top_app_hours": 2.54,
         "excess_hours": 7.96,
-        "opportunity_loss_yuan": 453.72
+        "opportunity_loss_yuan": 796.0
       }
     ]
   },
@@ -11917,7 +11917,7 @@
         "top_app": "微信",
         "top_app_hours": 3.88,
         "excess_hours": 8.9,
-        "opportunity_loss_yuan": 507.3
+        "opportunity_loss_yuan": 890.0
       },
       {
         "year": "2026",
@@ -11931,7 +11931,7 @@
         "top_app": "微信",
         "top_app_hours": 2.98,
         "excess_hours": 9.1,
-        "opportunity_loss_yuan": 518.7
+        "opportunity_loss_yuan": 910.0
       }
     ]
   },
@@ -11950,7 +11950,7 @@
         "top_app": "微信",
         "top_app_hours": 7.71,
         "excess_hours": 14.09,
-        "opportunity_loss_yuan": 803.13
+        "opportunity_loss_yuan": 1409.0
       },
       {
         "year": "2026",
@@ -11964,7 +11964,7 @@
         "top_app": "微信",
         "top_app_hours": 5.75,
         "excess_hours": 12.67,
-        "opportunity_loss_yuan": 722.19
+        "opportunity_loss_yuan": 1267.0
       }
     ]
   },
@@ -11983,7 +11983,7 @@
         "top_app": "Google",
         "top_app_hours": 4.21,
         "excess_hours": 12.31,
-        "opportunity_loss_yuan": 701.67
+        "opportunity_loss_yuan": 1231.0
       },
       {
         "year": "2026",
@@ -11997,7 +11997,7 @@
         "top_app": "微信",
         "top_app_hours": 6.85,
         "excess_hours": 12.46,
-        "opportunity_loss_yuan": 710.22
+        "opportunity_loss_yuan": 1246.0
       }
     ]
   },
@@ -12016,7 +12016,7 @@
         "top_app": "微信",
         "top_app_hours": 5.85,
         "excess_hours": 9.02,
-        "opportunity_loss_yuan": 514.14
+        "opportunity_loss_yuan": 902.0
       },
       {
         "year": "2026",
@@ -12030,7 +12030,7 @@
         "top_app": "微信",
         "top_app_hours": 6.7,
         "excess_hours": 12.07,
-        "opportunity_loss_yuan": 687.99
+        "opportunity_loss_yuan": 1207.0
       }
     ]
   },
@@ -12049,7 +12049,7 @@
         "top_app": "微信",
         "top_app_hours": 6.34,
         "excess_hours": 7.46,
-        "opportunity_loss_yuan": 425.22
+        "opportunity_loss_yuan": 746.0
       },
       {
         "year": "2026",
@@ -12063,7 +12063,7 @@
         "top_app": "微信",
         "top_app_hours": 2.65,
         "excess_hours": 4.53,
-        "opportunity_loss_yuan": 258.21
+        "opportunity_loss_yuan": 453.0
       }
     ]
   },
@@ -12082,7 +12082,7 @@
         "top_app": "微信",
         "top_app_hours": 7.86,
         "excess_hours": 13.38,
-        "opportunity_loss_yuan": 762.66
+        "opportunity_loss_yuan": 1338.0
       },
       {
         "year": "2026",
@@ -12096,7 +12096,7 @@
         "top_app": "微信",
         "top_app_hours": 1.85,
         "excess_hours": 6.82,
-        "opportunity_loss_yuan": 388.74
+        "opportunity_loss_yuan": 682.0
       }
     ]
   },
@@ -12115,7 +12115,7 @@
         "top_app": "微信",
         "top_app_hours": 3.2,
         "excess_hours": 6.64,
-        "opportunity_loss_yuan": 378.48
+        "opportunity_loss_yuan": 664.0
       },
       {
         "year": "2026",
@@ -12129,7 +12129,7 @@
         "top_app": "微信",
         "top_app_hours": 2.39,
         "excess_hours": 5.48,
-        "opportunity_loss_yuan": 312.36
+        "opportunity_loss_yuan": 548.0
       }
     ]
   },
@@ -12148,7 +12148,7 @@
         "top_app": "微信",
         "top_app_hours": 4.36,
         "excess_hours": 10.85,
-        "opportunity_loss_yuan": 618.45
+        "opportunity_loss_yuan": 1085.0
       },
       {
         "year": "2026",
@@ -12162,7 +12162,7 @@
         "top_app": "微信",
         "top_app_hours": 2.1,
         "excess_hours": 9.36,
-        "opportunity_loss_yuan": 533.52
+        "opportunity_loss_yuan": 936.0
       }
     ]
   },
@@ -12181,7 +12181,7 @@
         "top_app": "豆包",
         "top_app_hours": 9.61,
         "excess_hours": 19.44,
-        "opportunity_loss_yuan": 1108.08
+        "opportunity_loss_yuan": 1944.0
       },
       {
         "year": "2026",
@@ -12195,7 +12195,7 @@
         "top_app": "YouTube",
         "top_app_hours": 2.67,
         "excess_hours": 6.93,
-        "opportunity_loss_yuan": 395.01
+        "opportunity_loss_yuan": 693.0
       }
     ]
   },
@@ -12214,7 +12214,7 @@
         "top_app": "微信",
         "top_app_hours": 6.17,
         "excess_hours": 9.1,
-        "opportunity_loss_yuan": 518.7
+        "opportunity_loss_yuan": 910.0
       },
       {
         "year": "2026",
@@ -12228,7 +12228,7 @@
         "top_app": "微信",
         "top_app_hours": 2.7,
         "excess_hours": 8.3,
-        "opportunity_loss_yuan": 473.1
+        "opportunity_loss_yuan": 830.0
       }
     ]
   },
@@ -12247,7 +12247,7 @@
         "top_app": "微信",
         "top_app_hours": 5.98,
         "excess_hours": 15.51,
-        "opportunity_loss_yuan": 884.07
+        "opportunity_loss_yuan": 1551.0
       },
       {
         "year": "2026",
@@ -12261,7 +12261,7 @@
         "top_app": "ChatGPT",
         "top_app_hours": 2.33,
         "excess_hours": 9.99,
-        "opportunity_loss_yuan": 569.43
+        "opportunity_loss_yuan": 999.0
       }
     ]
   },
@@ -12280,7 +12280,7 @@
         "top_app": "抖音",
         "top_app_hours": 11.49,
         "excess_hours": 13.86,
-        "opportunity_loss_yuan": 790.02
+        "opportunity_loss_yuan": 1386.0
       },
       {
         "year": "2026",
@@ -12294,7 +12294,7 @@
         "top_app": "微信",
         "top_app_hours": 1.26,
         "excess_hours": 3.59,
-        "opportunity_loss_yuan": 204.63
+        "opportunity_loss_yuan": 359.0
       }
     ]
   },
@@ -12313,7 +12313,7 @@
         "top_app": "抖音",
         "top_app_hours": 8.08,
         "excess_hours": 10.25,
-        "opportunity_loss_yuan": 584.25
+        "opportunity_loss_yuan": 1025.0
       },
       {
         "year": "2026",
@@ -12327,7 +12327,7 @@
         "top_app": "微信",
         "top_app_hours": 1.36,
         "excess_hours": 2.6,
-        "opportunity_loss_yuan": 148.2
+        "opportunity_loss_yuan": 260.0
       }
     ]
   },
@@ -12346,7 +12346,7 @@
         "top_app": "微信",
         "top_app_hours": 6.7,
         "excess_hours": 13.99,
-        "opportunity_loss_yuan": 797.43
+        "opportunity_loss_yuan": 1399.0
       },
       {
         "year": "2026",
@@ -12360,7 +12360,7 @@
         "top_app": "微信",
         "top_app_hours": 2.05,
         "excess_hours": 4.51,
-        "opportunity_loss_yuan": 257.07
+        "opportunity_loss_yuan": 451.0
       }
     ]
   },
@@ -12379,7 +12379,7 @@
         "top_app": "抖音",
         "top_app_hours": 6.85,
         "excess_hours": 12.73,
-        "opportunity_loss_yuan": 725.61
+        "opportunity_loss_yuan": 1273.0
       },
       {
         "year": "2026",
@@ -12393,7 +12393,7 @@
         "top_app": "微信",
         "top_app_hours": 3.8,
         "excess_hours": 10.31,
-        "opportunity_loss_yuan": 587.67
+        "opportunity_loss_yuan": 1031.0
       }
     ]
   },
@@ -12412,7 +12412,7 @@
         "top_app": "微信",
         "top_app_hours": 6.86,
         "excess_hours": 16.58,
-        "opportunity_loss_yuan": 945.06
+        "opportunity_loss_yuan": 1658.0
       },
       {
         "year": "2026",
@@ -12426,7 +12426,7 @@
         "top_app": "哔哩哔哩",
         "top_app_hours": 2.57,
         "excess_hours": 8.73,
-        "opportunity_loss_yuan": 497.61
+        "opportunity_loss_yuan": 873.0
       }
     ]
   },
@@ -12445,7 +12445,7 @@
         "top_app": "抖音",
         "top_app_hours": 4.89,
         "excess_hours": 11.14,
-        "opportunity_loss_yuan": 634.98
+        "opportunity_loss_yuan": 1114.0
       },
       {
         "year": "2026",
@@ -12459,7 +12459,7 @@
         "top_app": "微信",
         "top_app_hours": 6.73,
         "excess_hours": 11.73,
-        "opportunity_loss_yuan": 668.61
+        "opportunity_loss_yuan": 1173.0
       }
     ]
   },
@@ -12478,7 +12478,7 @@
         "top_app": "com.tencent.tmgp.pubgmhd",
         "top_app_hours": 2.25,
         "excess_hours": 7.31,
-        "opportunity_loss_yuan": 416.67
+        "opportunity_loss_yuan": 731.0
       },
       {
         "year": "2026",
@@ -12492,7 +12492,7 @@
         "top_app": "微信",
         "top_app_hours": 3.92,
         "excess_hours": 9.18,
-        "opportunity_loss_yuan": 523.26
+        "opportunity_loss_yuan": 918.0
       }
     ]
   },
@@ -12511,7 +12511,7 @@
         "top_app": "com.tencent.tmgp.pubgmhd",
         "top_app_hours": 8.6,
         "excess_hours": 16.0,
-        "opportunity_loss_yuan": 912.0
+        "opportunity_loss_yuan": 1600.0
       },
       {
         "year": "2026",
@@ -12525,7 +12525,7 @@
         "top_app": "京东读书",
         "top_app_hours": 4.76,
         "excess_hours": 7.95,
-        "opportunity_loss_yuan": 453.15
+        "opportunity_loss_yuan": 795.0
       }
     ]
   },
@@ -12544,7 +12544,7 @@
         "top_app": "抖音",
         "top_app_hours": 9.83,
         "excess_hours": 12.56,
-        "opportunity_loss_yuan": 715.92
+        "opportunity_loss_yuan": 1256.0
       },
       {
         "year": "2026",
@@ -12558,7 +12558,7 @@
         "top_app": "京东读书",
         "top_app_hours": 2.2,
         "excess_hours": 7.69,
-        "opportunity_loss_yuan": 438.33
+        "opportunity_loss_yuan": 769.0
       }
     ]
   }

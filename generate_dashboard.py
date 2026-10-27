@@ -985,9 +985,9 @@ html_content = f"""<!DOCTYPE html>
       <div class="control-item">
         <div class="control-label">
           <span>设定个人生产力时薪换算 (您的实际时薪)</span>
-          <span class="control-val-tag" id="tag-wage">¥57 / 小时</span>
+          <span class="control-val-tag" id="tag-wage">¥100 / 小时</span>
         </div>
-        <input type="range" class="slider" id="slider-wage" min="20" max="300" step="1" value="57" oninput="updateOpportunityCalc()">
+        <input type="range" class="slider" id="slider-wage" min="20" max="300" step="1" value="100" oninput="updateOpportunityCalc()">
       </div>
     </div>
 
@@ -1003,9 +1003,9 @@ html_content = f"""<!DOCTYPE html>
             </div>
           </div>
           <div style="text-align: right;">
-            <div style="font-size: 13px; color: var(--text-muted);">按 ¥57/h 时薪折算潜在经济资本重比</div>
+            <div style="font-size: 13px; color: var(--text-muted);">按 ¥100/h 时薪折算潜在经济资本重比</div>
             <div style="font-size: 38px; font-weight: 800; color: #34d399; letter-spacing: -1px; margin-top: 4px;">
-              ¥<span id="reclaim-money">43.03</span> <span style="font-size: 18px; font-weight: 500; color: var(--text-muted);">万元</span>
+              ¥<span id="reclaim-money">75.49</span> <span style="font-size: 18px; font-weight: 500; color: var(--text-muted);">万元</span>
             </div>
           </div>
         </div>
@@ -1094,13 +1094,13 @@ html_content = f"""<!DOCTYPE html>
         <div class="equiv-header">
           <div class="equiv-icon">💎</div>
           <div>
-            <div class="equiv-title">真实时薪收益折算 (¥57/h)</div>
-            <div class="equiv-sub">基于您实际时薪 ¥57 进行硬核折算</div>
+            <div class="equiv-title">真实时薪收益折算 (¥100/h)</div>
+            <div class="equiv-sub">基于您实际时薪 ¥100 进行硬核折算</div>
           </div>
         </div>
-        <div class="equiv-number"><span id="eq-money">43.03</span><span class="equiv-unit">万元</span></div>
+        <div class="equiv-number"><span id="eq-money">75.49</span><span class="equiv-unit">万元</span></div>
         <div class="equiv-desc">
-          按您当前的实际时薪 ¥57/小时 计算，这笔溢出时间等价于 <b>43 万元人民币</b> 的纯现金生产力！若时薪未来提升，价值将成倍激增。
+          按您当前的实际时薪 ¥100/小时 计算，这笔溢出时间等价于 <b>75.5 万元人民币</b> 的纯现金生产力！若投入专业深耕，价值将持续成倍激增。
         </div>
       </div>
     </div>

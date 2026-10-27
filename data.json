@@ -39,7 +39,7 @@
       "workouts": 5033,
       "trips": 151,
       "value_at_100_per_hour": 75.49,
-      "value_at_wage": 43.03
+      "value_at_wage": 75.49
     },
     "conversions_social_video": {
       "books": 599,
@@ -48,9 +48,9 @@
       "workouts": 2397,
       "trips": 72,
       "value_at_100_per_hour": 35.95,
-      "value_at_wage": 20.49
+      "value_at_wage": 35.95
     },
-    "user_wage": 57.0
+    "user_wage": 100.0
   },
   "months": [
     "2024-09",

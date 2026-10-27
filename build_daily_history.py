@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Build daily_history.json for Gemini Spark / GitHub Automation
-Keyed by MM-DD for instant O(1) query of 'On this day in history'
+Updated with 100 RMB/hour wage
 """
 import os, json, re
 from collections import defaultdict
@@ -12,7 +12,6 @@ day_csv = os.path.join(base_dir, "AppUsage_day.csv")
 
 date_pattern = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 
-# Read daily ALL records and app breakdown
 daily_records = defaultdict(lambda: {
     'total_ms': 0.0,
     'starts': 0,
@@ -62,13 +61,12 @@ with open(day_csv, 'r', encoding='utf-8-sig', errors='replace') as f:
                     rec['top_app_ms'] = ms
                     rec['top_app'] = app_name or pkg
 
-# Transform into MM-DD indexed dictionary
 history_by_mmdd = defaultdict(lambda: {
     'month_day': '',
     'records': []
 })
 
-user_hourly_wage = 57.0 # RMB/hour
+user_hourly_wage = 100.0 # Updated to 100 RMB/hour
 baseline_daily_allowance = 2.0 # hours/day
 
 for d_str in sorted(daily_records.keys()):
@@ -106,8 +104,4 @@ out_path = os.path.join(base_dir, "daily_history.json")
 with open(out_path, "w", encoding="utf-8") as f:
     json.dump(history_by_mmdd, f, ensure_ascii=False, indent=2)
 
-print(f"Generated daily_history.json at: {out_path}")
-print(f"Total calendar days covered: {len(history_by_mmdd)}")
-sample_mmdd = "10-27"
-print(f"Sample data for {sample_mmdd}:")
-print(json.dumps(history_by_mmdd[sample_mmdd], ensure_ascii=False, indent=2))
+print(f"Updated daily_history.json with wage 100 at: {out_path}")
