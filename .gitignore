@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Scratch scripts
+check_*.py
+verify_*.py
+download_*.py
+calc_*.py
+update_*.py
+analyze.py
